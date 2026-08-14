@@ -1,0 +1,1123 @@
+{
+  "items": [
+    {
+      "description": "You use these to connect to IRC.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HexChat",
+          "description": "Based on XChat, easy to use, spell check & multiple languages. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2024-08-19T02:29:21Z",
+            "owner": "hexchat",
+            "repo": "hexchat",
+            "stars": 3234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Textual",
+          "description": "Very customizable, ZNC integration, iCloud sync ($4.99). (source)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Objective-C",
+            "last_commit": "2026-07-03T03:35:56Z",
+            "owner": "Codeux-Software",
+            "repo": "Textual",
+            "stars": 1909
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LimeChat",
+          "description": "One window for multiple servers, keyboard shortcuts, fast & stable. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2021-11-22T03:01:21Z",
+            "owner": "psychs",
+            "repo": "limechat",
+            "stars": 1582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kiwi IRC",
+          "description": "Powerful modern IRC messenger for the web. (source, demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-06-19T23:28:33Z",
+            "owner": "kiwiirc",
+            "repo": "kiwiirc",
+            "stars": 983
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quassel",
+          "description": "Distributed (clients can attach to and detach from a central core that stays permanently online. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-27T12:03:33Z",
+            "owner": "quassel",
+            "repo": "quassel",
+            "stars": 789
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Revolution IRC",
+          "description": "Feature-full, actively maintained Android IRC client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-01-01T04:31:59Z",
+            "owner": "MCMrARM",
+            "repo": "revolution-irc",
+            "stars": 613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Circe",
+          "description": "For use in Emacs, sane defaults.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2026-05-25T11:14:34Z",
+            "owner": "emacs-circe",
+            "repo": "circe",
+            "stars": 442
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CIRC",
+          "description": "Uses the chrome.sockets APIs to connect directly to IRC servers without needing a proxy. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-03-29T03:48:14Z",
+            "owner": "flackr",
+            "repo": "circ",
+            "stars": 385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KvIRC",
+          "description": "Free, portable, based on Qt GUI toolkit. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-13T10:29:47Z",
+            "owner": "kvirc",
+            "repo": "KVIrc",
+            "stars": 303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ObsidianIRC",
+          "description": "Modern WebSocket IRC client with Discord-like UI. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T06:15:03Z",
+            "owner": "obbyworld",
+            "repo": "obby",
+            "stars": 226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smuxi",
+          "description": "User-friendly, based on GNOME / GTK+. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-29T15:39:49Z",
+            "owner": "meebey",
+            "repo": "smuxi",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MERK",
+          "description": "Open source, multiple-document interface GUI client with a rich plugin framework supporting 40+ events; plugins created directly inside the app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T13:50:19Z",
+            "owner": "nutjob-laboratories",
+            "repo": "merk",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Konversation",
+          "description": "User-friendly client built on the KDE Platform. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-14T03:28:23Z",
+            "owner": "KDE",
+            "repo": "konversation",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Iridium",
+          "description": "Friendly IRC client built in Vala and GTK, designed for elementary OS. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2023-03-12T01:25:07Z",
+            "owner": "avojak",
+            "repo": "iridium",
+            "stars": 57
+          }
+        }
+      ],
+      "title": "Clients"
+    },
+    {
+      "description": "Useful for disconnecting and reconnecting without losing the chat session.",
+      "items": [],
+      "title": "Bouncers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TheLounge",
+          "description": "Responsive, self-hosted & support for multiple users. (source, demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T09:59:00Z",
+            "owner": "thelounge",
+            "repo": "thelounge",
+            "stars": 6312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WeeChat",
+          "description": "A fast, light and extensible chat client. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T16:08:52Z",
+            "owner": "weechat",
+            "repo": "weechat",
+            "stars": 3366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZNC",
+          "description": "Most popular. many different plugins. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-08T00:26:42Z",
+            "owner": "znc",
+            "repo": "znc",
+            "stars": 2121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Convos",
+          "description": "Always online web IRC client. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T00:10:44Z",
+            "owner": "convos-chat",
+            "repo": "convos",
+            "stars": 1190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sms-webhook",
+          "description": "A simple webhook to receive SMS messages on IRC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-10T01:15:32Z",
+            "owner": "terminaldweller",
+            "repo": "sms-webhook",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Self-hosted"
+    },
+    {
+      "description": "Used for running your own IRC server or network.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ergo",
+          "description": "Modern server that's portable and designed around specifications (bleeding-edge IRCv3 support). (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T01:19:20Z",
+            "owner": "ergochat",
+            "repo": "ergo",
+            "stars": 3296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InspIRCd",
+          "description": "Modular, stable, written from scratch. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T09:44:58Z",
+            "owner": "inspircd",
+            "repo": "inspircd",
+            "stars": 1339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ngIRCd",
+          "description": "Portable and lightweight for small or private networks. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-12T16:22:30Z",
+            "owner": "ngircd",
+            "repo": "ngircd",
+            "stars": 574
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ircd.js",
+          "description": "Server will allow clients to connect, join channels, change topics; basic stuff.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-05-31T04:11:36Z",
+            "owner": "alexyoung",
+            "repo": "ircd.js",
+            "stars": 531
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnrealIRCd",
+          "description": "Modular, advanced IRCd serving thousands of networks since 1999. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-14T15:22:04Z",
+            "owner": "unrealircd",
+            "repo": "unrealircd",
+            "stars": 521
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "miniircd",
+          "description": "Very simple and limited.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-12T20:04:18Z",
+            "owner": "jrosdahl",
+            "repo": "miniircd",
+            "stars": 449
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RobustIRC",
+          "description": "IRC server without netsplits. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-24T16:29:37Z",
+            "owner": "robustirc",
+            "repo": "robustirc",
+            "stars": 195
+          }
+        }
+      ],
+      "title": "Daemons"
+    },
+    {
+      "description": "Used to provide user accounts and bots like NickServ/ChanServ to your network.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Atheme",
+          "description": "Designed for large networks with high scalability requirements. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T23:22:09Z",
+            "owner": "atheme",
+            "repo": "atheme",
+            "stars": 428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anope",
+          "description": "Designed for flexibility and ease of use. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T07:46:22Z",
+            "owner": "anope",
+            "repo": "anope",
+            "stars": 363
+          }
+        }
+      ],
+      "title": "Services"
+    },
+    {
+      "description": "IRC users which provide services for humans, e.g. integrations or information.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "wayback",
+          "description": "An archiving tool with an IRC interface integrated with various archiving services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T23:11:38Z",
+            "owner": "wabarc",
+            "repo": "wayback",
+            "stars": 2224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sopel",
+          "description": "Tonnes of ready made features, tutorial, fully documented. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-29T13:39:33Z",
+            "owner": "sopel-irc",
+            "repo": "sopel",
+            "stars": 981
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Limnoria",
+          "description": "Robust, user friendly, developer friendly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-23T16:38:34Z",
+            "owner": "progval",
+            "repo": "Limnoria",
+            "stars": 668
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eggdrop",
+          "description": "Oldest IRC bot still in active development. Feature rich, uses Tcl scripting. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-02T09:40:13Z",
+            "owner": "eggheads",
+            "repo": "eggdrop",
+            "stars": 577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Twitch Plays",
+          "description": "Takes input from the chat and presses the corresponding key.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2014-02-22T22:47:42Z",
+            "owner": "aidanrwt",
+            "repo": "twitch-plays",
+            "stars": 276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skybot",
+          "description": "Main goals are simplicity and power.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-17T13:55:39Z",
+            "owner": "rmmh",
+            "repo": "skybot",
+            "stars": 248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geordi",
+          "description": "Compiles and runs C++ code snippets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2022-10-05T22:16:35Z",
+            "owner": "Eelis",
+            "repo": "geordi",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudBot",
+          "description": "Simple, fast, expandable.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T08:41:50Z",
+            "owner": "TotallyNotRobots",
+            "repo": "CloudBot",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lazybot",
+          "description": "User-friendly and powerful.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2015-06-17T15:51:06Z",
+            "owner": "Raynes",
+            "repo": "lazybot",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BitBot",
+          "description": "Modular, event-driven bot featuring a REST API, individual user settings and much more. (bitbot.dev)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-10T04:48:23Z",
+            "owner": "bitbot-irc",
+            "repo": "bitbot",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cardinal",
+          "description": "Python Twisted IRC bot with a focus on ease of plugin development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T06:22:09Z",
+            "owner": "johnmaguire",
+            "repo": "Cardinal",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyHoneybot",
+          "description": "Python Twisted IRC bot with a focus on ease of plugin development. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-06T02:32:38Z",
+            "owner": "pyhoneybot",
+            "repo": "honeybot",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "helga",
+          "description": "Pluggable chat bot supporting multiple protocols.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T04:02:32Z",
+            "owner": "shaunduncan",
+            "repo": "helga",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yossarian-bot",
+          "description": "Large default plugin set, Cinch-based.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2025-03-12T16:38:21Z",
+            "owner": "woodruffw",
+            "repo": "yossarian-bot",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "milla",
+          "description": "New generation LLM-powered bot with lua scripting support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-22T11:32:31Z",
+            "owner": "terminaldweller",
+            "repo": "milla",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EveIRC",
+          "description": "Extendable chat/channel/server-managenent service-providing bot. Using the Cinch Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2019-11-14T21:47:32Z",
+            "owner": "Inspyre-Technologies",
+            "repo": "EveIRC",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Bots"
+    },
+    {
+      "description": "Plugins and tools for encrypting IRC messages.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "irssi-otr",
+          "description": "Off-the-Record (OTR) messaging plugin for irssi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-09-01T17:52:24Z",
+            "owner": "cryptodotis",
+            "repo": "irssi-otr",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "weechat-otr",
+          "description": "Off-the-Record (OTR) messaging plugin for WeeChat.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-03-27T04:15:45Z",
+            "owner": "mmb",
+            "repo": "weechat-otr",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FiSH-irssi",
+          "description": "Blowfish encryption in ECB/CBC modes with Diffie-Hellman key exchange for irssi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-18T00:24:03Z",
+            "owner": "falsovsky",
+            "repo": "FiSH-irssi",
+            "stars": 129
+          }
+        }
+      ],
+      "title": "Encryption"
+    },
+    {
+      "description": "Helpful to write bots or integrate IRC with applications.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "goirc",
+          "description": "Event-based, stateful, lacking documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-03T06:57:30Z",
+            "owner": "fluffle",
+            "repo": "goirc",
+            "stars": 516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "go-ircevent",
+          "description": "Event-based.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-03-07T03:22:24Z",
+            "owner": "thoj",
+            "repo": "go-ircevent",
+            "stars": 498
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hubot IRC Adapter",
+          "description": "The IRC adapter for hubot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2021-11-24T19:28:58Z",
+            "owner": "nandub",
+            "repo": "hubot-irc",
+            "stars": 299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PircBotX",
+          "description": "Event based IRC Library with a straightforward API (updated fork of PircBot).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-12T12:22:48Z",
+            "owner": "pircbotx",
+            "repo": "pircbotx",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "slate-irc",
+          "description": "Plugin system, simple api, arbitrary input stream, debug support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-30T15:52:59Z",
+            "owner": "slate",
+            "repo": "slate-irc",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-irc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-04-24T16:17:01Z",
+            "owner": "Throne3d",
+            "repo": "node-irc",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IRC::Client",
+          "description": "based extendable IRC client framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Raku",
+            "last_commit": "2026-02-02T23:51:26Z",
+            "owner": "lizmat",
+            "repo": "IRC-Client",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
+      "description": "Sends messages back and forth.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "matterbridge",
+          "description": "IRC ↔ Mattermost ↔ Discord ↔ XMPP ↔ Gitter ↔ Slack ↔ Discord ↔ Telegram ↔ etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-12-12T00:20:34Z",
+            "owner": "42wim",
+            "repo": "matterbridge",
+            "stars": 7551
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "discord-irc",
+          "description": "Discord ↔ IRC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-25T09:52:53Z",
+            "owner": "reactiflux",
+            "repo": "discord-irc",
+            "stars": 1225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "slack-irc",
+          "description": "Slack ↔ IRC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-10-12T02:14:35Z",
+            "owner": "ekmartin",
+            "repo": "slack-irc",
+            "stars": 589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appservice-IRC",
+          "description": "Gateway and bridge Matrix ↔ IRC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-02T15:31:38Z",
+            "owner": "matrix-org",
+            "repo": "matrix-appservice-irc",
+            "stars": 504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "matterircd",
+          "description": "Matterbridge ↔ IRC, Slack ↔ IRC, Mastodon ↔ IRC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T22:16:24Z",
+            "owner": "42wim",
+            "repo": "matterircd",
+            "stars": 310
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Heisenbridge",
+          "description": "Bouncer-style Matrix IRC bridge",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-04T11:13:47Z",
+            "owner": "hifi",
+            "repo": "heisenbridge",
+            "stars": 309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "irc-slack",
+          "description": "Slack ↔ IRC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-17T08:47:06Z",
+            "owner": "insomniacslk",
+            "repo": "irc-slack",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "teleirc",
+          "description": "Telegram ↔ IRC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-11T17:03:56Z",
+            "owner": "RITlug",
+            "repo": "teleirc",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dis4IRC",
+          "description": "Discord ↔ IRC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-05-10T20:42:37Z",
+            "owner": "zachbr",
+            "repo": "Dis4IRC",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "toxirc",
+          "description": "Tox ↔ IRC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-02-17T05:55:07Z",
+            "owner": "e0ff",
+            "repo": "toxirc",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dibridge",
+          "description": "Discord ↔ IRC (with puppets)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T11:02:28Z",
+            "owner": "OpenTTD",
+            "repo": "dibridge",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "skyweb2irc",
+          "description": "Skype (webclient API) ↔ IRC.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-03-04T12:33:34Z",
+            "owner": "progval",
+            "repo": "skyweb2irc",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Bridges"
+    },
+    {
+      "description": "IRC channels.",
+      "items": [],
+      "title": "Channels"
+    },
+    {
+      "description": "Information and resources about the IRC protocol itself.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Modern IRC Documents",
+          "description": "An attempt to write an update to the original IRC protocol. documentation (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Sass",
+            "last_commit": "2025-10-02T05:57:24Z",
+            "owner": "ircdocs",
+            "repo": "modern-irc",
+            "stars": 230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IRCv3 Working Group",
+          "description": "A group of IRC software authors working to enhance, improve, maintain and standardize the IRC protocol. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-07T19:20:44Z",
+            "owner": "ircv3",
+            "repo": "ircv3.github.io",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IRC Definition Files",
+          "description": "Lists of numerics, modes, ISUPPORT tokens and other protocol details. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-03-14T19:26:04Z",
+            "owner": "ircdocs",
+            "repo": "irc-defs",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grawity's IRC docs",
+          "description": "Collection of misc IRC protocol documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-07-18T17:14:23Z",
+            "owner": "grawity",
+            "repo": "irc-docs",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IRC Parser Tests",
+          "description": "A CC0 set of test suites, to ensure IRC message parsers are consistent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-05-29T12:56:18Z",
+            "owner": "ircdocs",
+            "repo": "parser-tests",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Protocol Statistics",
+          "description": "Statistics around the server software in use on networks today. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-07-21T22:04:02Z",
+            "owner": "ircdocs",
+            "repo": "irc-stats",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Protocol"
+    },
+    {
+      "description": "Items that belong on the list but defy classification.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "superseriousstats",
+          "description": "Fast and efficient program to create statistics out of various types of chat logs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-02T18:26:48Z",
+            "owner": "tommyrot",
+            "repo": "superseriousstats",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "img2src",
+          "description": "Convert images to halfblock ANSI or IRC, with a bunch of post-processing filters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-13T20:40:53Z",
+            "owner": "waveplate",
+            "repo": "img2irc",
+            "stars": 46
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "By Craig Davison and contributors.",
+      "items": [],
+      "title": "Credits"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T03:34:34.220Z",
+    "original_repository": "davisonio/awesome-irc",
+    "original_repository_sha": "bc4059b7c065aae9c4c6d8a08d65d0a478402e96",
+    "enhanced_repository": "enhansome/enhansome-irc",
+    "enhanced_repository_description": null,
+    "title": "Awesome IRC with stars"
+  }
+}
