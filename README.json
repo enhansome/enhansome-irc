@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "You use these to connect to IRC.",
+      "description": "You use these to connect to IRC.\nMore? Clients that include bouncers are found below.",
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 4994785,
             "language": "C",
             "last_commit": "2024-08-19T02:29:21Z",
             "owner": "hexchat",
             "repo": "hexchat",
-            "stars": 3230
+            "stars": 3231
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 792833,
             "language": "Objective-C",
             "last_commit": "2026-07-03T03:35:56Z",
             "owner": "Codeux-Software",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4016,
             "language": "Objective-C",
             "last_commit": "2021-11-22T03:01:21Z",
             "owner": "psychs",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75491939,
             "language": "Vue",
             "last_commit": "2026-06-19T23:28:33Z",
             "owner": "kiwiirc",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7007419,
             "language": "C++",
             "last_commit": "2026-06-27T12:03:33Z",
             "owner": "quassel",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100821244,
             "language": "Java",
             "last_commit": "2024-01-01T04:31:59Z",
             "owner": "MCMrARM",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6102770,
             "language": "Emacs Lisp",
             "last_commit": "2026-05-25T11:14:34Z",
             "owner": "emacs-circe",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5592929,
             "language": "JavaScript",
             "last_commit": "2022-03-29T03:48:14Z",
             "owner": "flackr",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39708674,
             "language": "C++",
             "last_commit": "2026-06-13T10:29:47Z",
             "owner": "kvirc",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 968663381,
             "language": "TypeScript",
             "last_commit": "2026-08-17T06:13:46Z",
             "owner": "obbyworld",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2728572,
             "language": "C#",
             "last_commit": "2025-12-29T15:39:49Z",
             "owner": "meebey",
@@ -164,8 +175,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 393831500,
             "language": "Python",
-            "last_commit": "2026-08-18T12:35:25Z",
+            "last_commit": "2026-08-19T05:17:06Z",
             "owner": "nutjob-laboratories",
             "repo": "merk",
             "stars": 74
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42721854,
             "language": "C++",
             "last_commit": "2026-08-18T03:28:34Z",
             "owner": "KDE",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 184354930,
             "language": "Vala",
             "last_commit": "2023-03-12T01:25:07Z",
             "owner": "avojak",
@@ -204,84 +218,91 @@
     },
     {
       "description": "Useful for disconnecting and reconnecting without losing the chat session.",
-      "items": [],
-      "title": "Bouncers"
-    },
-    {
-      "description": "",
       "items": [
         {
-          "node_type": "item",
-          "title": "TheLounge",
-          "description": "Responsive, self-hosted & support for multiple users. (source, demo)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T07:57:32Z",
-            "owner": "thelounge",
-            "repo": "thelounge",
-            "stars": 6313
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WeeChat",
-          "description": "A fast, light and extensible chat client. (source)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-17T16:49:06Z",
-            "owner": "weechat",
-            "repo": "weechat",
-            "stars": 3368
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ZNC",
-          "description": "Most popular. many different plugins. (source)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T00:26:50Z",
-            "owner": "znc",
-            "repo": "znc",
-            "stars": 2122
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Convos",
-          "description": "Always online web IRC client. (source)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T14:34:47Z",
-            "owner": "convos-chat",
-            "repo": "convos",
-            "stars": 1190
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sms-webhook",
-          "description": "A simple webhook to receive SMS messages on IRC.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-02-10T01:15:32Z",
-            "owner": "terminaldweller",
-            "repo": "sms-webhook",
-            "stars": 2
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TheLounge",
+              "description": "Responsive, self-hosted & support for multiple users. (source, demo)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51344082,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T07:57:32Z",
+                "owner": "thelounge",
+                "repo": "thelounge",
+                "stars": 6313
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WeeChat",
+              "description": "A fast, light and extensible chat client. (source)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17359210,
+                "language": "C",
+                "last_commit": "2026-08-17T16:49:06Z",
+                "owner": "weechat",
+                "repo": "weechat",
+                "stars": 3368
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ZNC",
+              "description": "Most popular. many different plugins. (source)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 465681,
+                "language": "C++",
+                "last_commit": "2026-08-18T00:26:50Z",
+                "owner": "znc",
+                "repo": "znc",
+                "stars": 2122
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Convos",
+              "description": "Always online web IRC client. (source)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14822868,
+                "language": "Go",
+                "last_commit": "2026-08-17T14:34:47Z",
+                "owner": "convos-chat",
+                "repo": "convos",
+                "stars": 1190
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sms-webhook",
+              "description": "A simple webhook to receive SMS messages on IRC.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 702303550,
+                "language": "Go",
+                "last_commit": "2026-02-10T01:15:32Z",
+                "owner": "terminaldweller",
+                "repo": "sms-webhook",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Self-hosted"
         }
       ],
-      "title": "Self-hosted"
+      "title": "Bouncers"
     },
     {
       "description": "Used for running your own IRC server or network.",
@@ -293,11 +314,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55980660,
             "language": "Go",
             "last_commit": "2026-08-17T02:57:02Z",
             "owner": "ergochat",
             "repo": "ergo",
-            "stars": 3304
+            "stars": 3306
           }
         },
         {
@@ -307,6 +329,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3786218,
             "language": "C++",
             "last_commit": "2026-08-17T13:51:53Z",
             "owner": "inspircd",
@@ -321,6 +344,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3093688,
             "language": "C",
             "last_commit": "2026-07-12T16:22:30Z",
             "owner": "ngircd",
@@ -335,6 +359,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1030490,
             "language": "JavaScript",
             "last_commit": "2021-05-31T04:11:36Z",
             "owner": "alexyoung",
@@ -349,6 +374,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22337925,
             "language": "C",
             "last_commit": "2026-08-17T13:49:46Z",
             "owner": "unrealircd",
@@ -363,6 +389,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2278633,
             "language": "Python",
             "last_commit": "2025-02-12T20:04:18Z",
             "owner": "jrosdahl",
@@ -377,6 +404,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29060224,
             "language": "Go",
             "last_commit": "2026-05-24T16:29:37Z",
             "owner": "robustirc",
@@ -397,6 +425,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2111095,
             "language": "C",
             "last_commit": "2026-08-18T06:48:44Z",
             "owner": "atheme",
@@ -411,6 +440,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 909217,
             "language": "C++",
             "last_commit": "2026-08-17T14:52:50Z",
             "owner": "anope",
@@ -431,6 +461,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 271984275,
             "language": "Go",
             "last_commit": "2026-08-14T17:16:37Z",
             "owner": "wabarc",
@@ -445,6 +476,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3035586,
             "language": "Python",
             "last_commit": "2026-08-18T19:37:29Z",
             "owner": "sopel-irc",
@@ -459,6 +491,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1663788,
             "language": "Python",
             "last_commit": "2026-07-23T16:38:34Z",
             "owner": "progval",
@@ -473,11 +506,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44209137,
             "language": "C",
             "last_commit": "2026-08-02T09:40:13Z",
             "owner": "eggheads",
             "repo": "eggdrop",
-            "stars": 577
+            "stars": 578
           }
         },
         {
@@ -487,6 +521,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16897667,
             "language": "Python",
             "last_commit": "2014-02-22T22:47:42Z",
             "owner": "aidanrwt",
@@ -501,6 +536,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 855503,
             "language": "Python",
             "last_commit": "2026-07-17T13:55:39Z",
             "owner": "rmmh",
@@ -515,6 +551,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 556657,
             "language": "Haskell",
             "last_commit": "2022-10-05T22:16:35Z",
             "owner": "Eelis",
@@ -529,6 +566,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 216284647,
             "language": "Python",
             "last_commit": "2026-08-18T16:43:31Z",
             "owner": "TotallyNotRobots",
@@ -543,6 +581,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 580134,
             "language": "Clojure",
             "last_commit": "2015-06-17T15:51:06Z",
             "owner": "Raynes",
@@ -557,6 +596,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54971153,
             "language": "Python",
             "last_commit": "2025-01-10T04:48:23Z",
             "owner": "bitbot-irc",
@@ -571,6 +611,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8061014,
             "language": "Python",
             "last_commit": "2026-07-27T06:22:09Z",
             "owner": "johnmaguire",
@@ -585,6 +626,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 190201354,
             "language": "Python",
             "last_commit": "2026-07-06T02:32:38Z",
             "owner": "pyhoneybot",
@@ -599,6 +641,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8221606,
             "language": "Python",
             "last_commit": "2026-06-02T04:02:32Z",
             "owner": "shaunduncan",
@@ -613,6 +656,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 28700798,
             "language": "Ruby",
             "last_commit": "2025-03-12T16:38:21Z",
             "owner": "woodruffw",
@@ -627,6 +671,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 749105941,
             "language": "Go",
             "last_commit": "2026-05-22T11:32:31Z",
             "owner": "terminaldweller",
@@ -641,6 +686,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14671095,
             "language": "Ruby",
             "last_commit": "2019-11-14T21:47:32Z",
             "owner": "Inspyre-Technologies",
@@ -661,6 +707,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2091362,
             "language": "C",
             "last_commit": "2017-09-01T17:52:24Z",
             "owner": "cryptodotis",
@@ -675,6 +722,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1120248,
             "language": "Python",
             "last_commit": "2018-03-27T04:15:45Z",
             "owner": "mmb",
@@ -689,6 +737,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3093744,
             "language": "C",
             "last_commit": "2026-02-18T00:24:03Z",
             "owner": "falsovsky",
@@ -709,6 +758,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 440945,
             "language": "Go",
             "last_commit": "2026-07-03T06:57:30Z",
             "owner": "fluffle",
@@ -723,6 +773,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 377209,
             "language": "Go",
             "last_commit": "2023-03-07T03:22:24Z",
             "owner": "thoj",
@@ -737,6 +788,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2859856,
             "language": "CoffeeScript",
             "last_commit": "2021-11-24T19:28:58Z",
             "owner": "nandub",
@@ -751,6 +803,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34429934,
             "language": "Java",
             "last_commit": "2026-06-12T12:22:48Z",
             "owner": "pircbotx",
@@ -765,6 +818,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13684128,
             "language": "TypeScript",
             "last_commit": "2026-07-30T15:52:59Z",
             "owner": "slate",
@@ -779,6 +833,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 89947641,
             "language": "JavaScript",
             "last_commit": "2021-04-24T16:17:01Z",
             "owner": "Throne3d",
@@ -793,194 +848,203 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46501598,
             "language": "Raku",
             "last_commit": "2026-02-02T23:51:26Z",
             "owner": "lizmat",
             "repo": "IRC-Client",
             "stars": 16
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "matterbridge",
+              "description": "IRC ↔ Mattermost ↔ Discord ↔ XMPP ↔ Gitter ↔ Slack ↔ Discord ↔ Telegram ↔ etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44820350,
+                "language": "Go",
+                "last_commit": "2024-12-12T00:20:34Z",
+                "owner": "42wim",
+                "repo": "matterbridge",
+                "stars": 7552
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "discord-irc",
+              "description": "Discord ↔ IRC.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44140591,
+                "language": "JavaScript",
+                "last_commit": "2023-11-25T09:52:53Z",
+                "owner": "reactiflux",
+                "repo": "discord-irc",
+                "stars": 1225
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "slack-irc",
+              "description": "Slack ↔ IRC.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30365240,
+                "language": "JavaScript",
+                "last_commit": "2022-10-12T02:14:35Z",
+                "owner": "ekmartin",
+                "repo": "slack-irc",
+                "stars": 589
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Appservice-IRC",
+              "description": "Gateway and bridge Matrix ↔ IRC",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31962644,
+                "language": "TypeScript",
+                "last_commit": "2026-04-02T15:31:38Z",
+                "owner": "matrix-org",
+                "repo": "matrix-appservice-irc",
+                "stars": 505
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "matterircd",
+              "description": "Matterbridge ↔ IRC, Slack ↔ IRC, Mastodon ↔ IRC.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45397023,
+                "language": "Go",
+                "last_commit": "2026-08-19T00:13:21Z",
+                "owner": "42wim",
+                "repo": "matterircd",
+                "stars": 310
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Heisenbridge",
+              "description": "Bouncer-style Matrix IRC bridge",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 356770814,
+                "language": "Python",
+                "last_commit": "2025-10-04T11:13:47Z",
+                "owner": "hifi",
+                "repo": "heisenbridge",
+                "stars": 309
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "irc-slack",
+              "description": "Slack ↔ IRC.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 127798941,
+                "language": "Go",
+                "last_commit": "2026-08-17T02:12:33Z",
+                "owner": "insomniacslk",
+                "repo": "irc-slack",
+                "stars": 206
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "teleirc",
+              "description": "Telegram ↔ IRC.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 57975534,
+                "language": "Go",
+                "last_commit": "2026-01-11T17:03:56Z",
+                "owner": "RITlug",
+                "repo": "teleirc",
+                "stars": 159
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dis4IRC",
+              "description": "Discord ↔ IRC.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152363057,
+                "language": "Kotlin",
+                "last_commit": "2026-05-10T20:42:37Z",
+                "owner": "zachbr",
+                "repo": "Dis4IRC",
+                "stars": 117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "toxirc",
+              "description": "Tox ↔ IRC.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 109031778,
+                "language": "C",
+                "last_commit": "2024-02-17T05:55:07Z",
+                "owner": "e0ff",
+                "repo": "toxirc",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dibridge",
+              "description": "Discord ↔ IRC (with puppets)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 522718422,
+                "language": "Python",
+                "last_commit": "2026-08-04T11:02:28Z",
+                "owner": "OpenTTD",
+                "repo": "dibridge",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "skyweb2irc",
+              "description": "Skype (webclient API) ↔ IRC.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 65156914,
+                "language": "JavaScript",
+                "last_commit": "2023-03-04T12:33:34Z",
+                "owner": "progval",
+                "repo": "skyweb2irc",
+                "stars": 7
+              }
+            }
+          ],
+          "description": "Sends messages back and forth.",
+          "node_type": "group",
+          "title": "Bridges"
         }
       ],
       "title": "Frameworks"
-    },
-    {
-      "description": "Sends messages back and forth.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "matterbridge",
-          "description": "IRC ↔ Mattermost ↔ Discord ↔ XMPP ↔ Gitter ↔ Slack ↔ Discord ↔ Telegram ↔ etc.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-12-12T00:20:34Z",
-            "owner": "42wim",
-            "repo": "matterbridge",
-            "stars": 7552
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "discord-irc",
-          "description": "Discord ↔ IRC.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-11-25T09:52:53Z",
-            "owner": "reactiflux",
-            "repo": "discord-irc",
-            "stars": 1225
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "slack-irc",
-          "description": "Slack ↔ IRC.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-10-12T02:14:35Z",
-            "owner": "ekmartin",
-            "repo": "slack-irc",
-            "stars": 589
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Appservice-IRC",
-          "description": "Gateway and bridge Matrix ↔ IRC",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-02T15:31:38Z",
-            "owner": "matrix-org",
-            "repo": "matrix-appservice-irc",
-            "stars": 505
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "matterircd",
-          "description": "Matterbridge ↔ IRC, Slack ↔ IRC, Mastodon ↔ IRC.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-19T00:13:21Z",
-            "owner": "42wim",
-            "repo": "matterircd",
-            "stars": 310
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Heisenbridge",
-          "description": "Bouncer-style Matrix IRC bridge",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-10-04T11:13:47Z",
-            "owner": "hifi",
-            "repo": "heisenbridge",
-            "stars": 309
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "irc-slack",
-          "description": "Slack ↔ IRC.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T02:12:33Z",
-            "owner": "insomniacslk",
-            "repo": "irc-slack",
-            "stars": 206
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "teleirc",
-          "description": "Telegram ↔ IRC.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-01-11T17:03:56Z",
-            "owner": "RITlug",
-            "repo": "teleirc",
-            "stars": 159
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dis4IRC",
-          "description": "Discord ↔ IRC.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-05-10T20:42:37Z",
-            "owner": "zachbr",
-            "repo": "Dis4IRC",
-            "stars": 117
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "toxirc",
-          "description": "Tox ↔ IRC.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-02-17T05:55:07Z",
-            "owner": "e0ff",
-            "repo": "toxirc",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dibridge",
-          "description": "Discord ↔ IRC (with puppets)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-04T11:02:28Z",
-            "owner": "OpenTTD",
-            "repo": "dibridge",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "skyweb2irc",
-          "description": "Skype (webclient API) ↔ IRC.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2023-03-04T12:33:34Z",
-            "owner": "progval",
-            "repo": "skyweb2irc",
-            "stars": 7
-          }
-        }
-      ],
-      "title": "Bridges"
-    },
-    {
-      "description": "IRC channels.",
-      "items": [],
-      "title": "Channels"
     },
     {
       "description": "Information and resources about the IRC protocol itself.",
@@ -992,6 +1056,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48411978,
             "language": "Sass",
             "last_commit": "2025-10-02T05:57:24Z",
             "owner": "ircdocs",
@@ -1006,6 +1071,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34589079,
             "language": "HTML",
             "last_commit": "2026-08-07T19:20:44Z",
             "owner": "ircv3",
@@ -1020,6 +1086,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46921306,
             "language": "HTML",
             "last_commit": "2025-03-14T19:26:04Z",
             "owner": "ircdocs",
@@ -1034,6 +1101,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5115231,
             "language": "HTML",
             "last_commit": "2022-07-18T17:14:23Z",
             "owner": "grawity",
@@ -1048,6 +1116,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37838584,
             "language": "Go",
             "last_commit": "2023-05-29T12:56:18Z",
             "owner": "ircdocs",
@@ -1062,6 +1131,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52639958,
             "language": "HTML",
             "last_commit": "2022-07-21T22:04:02Z",
             "owner": "ircdocs",
@@ -1082,6 +1152,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 804161,
             "language": "PHP",
             "last_commit": "2026-08-02T18:26:48Z",
             "owner": "tommyrot",
@@ -1096,6 +1167,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 621158533,
             "language": "Rust",
             "last_commit": "2026-01-13T20:40:53Z",
             "owner": "waveplate",
@@ -1105,16 +1177,12 @@
         }
       ],
       "title": "Miscellaneous"
-    },
-    {
-      "description": "By Craig Davison and contributors.",
-      "items": [],
-      "title": "Credits"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:35:31.599Z",
+    "last_updated": "2026-08-19T12:34:47.216Z",
     "original_repository": "davisonio/awesome-irc",
+    "original_repository_id": 49790204,
     "original_repository_sha": "bc4059b7c065aae9c4c6d8a08d65d0a478402e96",
     "enhanced_repository": "enhansome/enhansome-irc",
     "enhanced_repository_description": null,
