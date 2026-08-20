@@ -75,7 +75,7 @@
             "last_commit": "2026-06-27T12:03:33Z",
             "owner": "quassel",
             "repo": "quassel",
-            "stars": 792
+            "stars": 791
           }
         },
         {
@@ -177,7 +177,7 @@
             "archived": false,
             "id": 393831500,
             "language": "Python",
-            "last_commit": "2026-08-19T05:17:06Z",
+            "last_commit": "2026-08-20T01:17:30Z",
             "owner": "nutjob-laboratories",
             "repo": "merk",
             "stars": 74
@@ -233,7 +233,7 @@
                 "last_commit": "2026-08-18T07:57:32Z",
                 "owner": "thelounge",
                 "repo": "thelounge",
-                "stars": 6313
+                "stars": 6312
               }
             },
             {
@@ -245,7 +245,7 @@
                 "archived": false,
                 "id": 17359210,
                 "language": "C",
-                "last_commit": "2026-08-17T16:49:06Z",
+                "last_commit": "2026-08-19T21:03:19Z",
                 "owner": "weechat",
                 "repo": "weechat",
                 "stars": 3368
@@ -379,7 +379,7 @@
             "last_commit": "2026-08-17T13:49:46Z",
             "owner": "unrealircd",
             "repo": "unrealircd",
-            "stars": 521
+            "stars": 522
           }
         },
         {
@@ -927,7 +927,7 @@
                 "archived": false,
                 "id": 45397023,
                 "language": "Go",
-                "last_commit": "2026-08-19T00:13:21Z",
+                "last_commit": "2026-08-19T23:46:31Z",
                 "owner": "42wim",
                 "repo": "matterircd",
                 "stars": 310
@@ -1180,7 +1180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:34:47.216Z",
+    "last_updated": "2026-08-20T02:34:16.227Z",
     "original_repository": "davisonio/awesome-irc",
     "original_repository_id": 49790204,
     "original_repository_sha": "bc4059b7c065aae9c4c6d8a08d65d0a478402e96",
