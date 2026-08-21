@@ -60,7 +60,7 @@
             "last_commit": "2026-06-19T23:28:33Z",
             "owner": "kiwiirc",
             "repo": "kiwiirc",
-            "stars": 983
+            "stars": 982
           }
         },
         {
@@ -233,7 +233,7 @@
                 "last_commit": "2026-08-18T07:57:32Z",
                 "owner": "thelounge",
                 "repo": "thelounge",
-                "stars": 6312
+                "stars": 6314
               }
             },
             {
@@ -248,7 +248,7 @@
                 "last_commit": "2026-08-19T21:03:19Z",
                 "owner": "weechat",
                 "repo": "weechat",
-                "stars": 3368
+                "stars": 3370
               }
             },
             {
@@ -260,7 +260,7 @@
                 "archived": false,
                 "id": 465681,
                 "language": "C++",
-                "last_commit": "2026-08-18T00:26:50Z",
+                "last_commit": "2026-08-20T07:20:24Z",
                 "owner": "znc",
                 "repo": "znc",
                 "stars": 2122
@@ -319,7 +319,7 @@
             "last_commit": "2026-08-17T02:57:02Z",
             "owner": "ergochat",
             "repo": "ergo",
-            "stars": 3306
+            "stars": 3307
           }
         },
         {
@@ -496,7 +496,7 @@
             "last_commit": "2026-07-23T16:38:34Z",
             "owner": "progval",
             "repo": "Limnoria",
-            "stars": 669
+            "stars": 670
           }
         },
         {
@@ -568,7 +568,7 @@
             "archived": false,
             "id": 216284647,
             "language": "Python",
-            "last_commit": "2026-08-18T16:43:31Z",
+            "last_commit": "2026-08-20T03:21:22Z",
             "owner": "TotallyNotRobots",
             "repo": "CloudBot",
             "stars": 182
@@ -920,21 +920,6 @@
             },
             {
               "node_type": "item",
-              "title": "matterircd",
-              "description": "Matterbridge ↔ IRC, Slack ↔ IRC, Mastodon ↔ IRC.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 45397023,
-                "language": "Go",
-                "last_commit": "2026-08-19T23:46:31Z",
-                "owner": "42wim",
-                "repo": "matterircd",
-                "stars": 310
-              }
-            },
-            {
-              "node_type": "item",
               "title": "Heisenbridge",
               "description": "Bouncer-style Matrix IRC bridge",
               "children": [],
@@ -946,6 +931,21 @@
                 "owner": "hifi",
                 "repo": "heisenbridge",
                 "stars": 309
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "matterircd",
+              "description": "Matterbridge ↔ IRC, Slack ↔ IRC, Mastodon ↔ IRC.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45397023,
+                "language": "Go",
+                "last_commit": "2026-08-20T22:13:25Z",
+                "owner": "42wim",
+                "repo": "matterircd",
+                "stars": 307
               }
             },
             {
@@ -1076,7 +1076,7 @@
             "last_commit": "2026-08-07T19:20:44Z",
             "owner": "ircv3",
             "repo": "ircv3.github.io",
-            "stars": 103
+            "stars": 102
           }
         },
         {
@@ -1180,7 +1180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:34:16.227Z",
+    "last_updated": "2026-08-21T02:40:44.598Z",
     "original_repository": "davisonio/awesome-irc",
     "original_repository_id": 49790204,
     "original_repository_sha": "bc4059b7c065aae9c4c6d8a08d65d0a478402e96",
