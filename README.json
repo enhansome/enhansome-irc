@@ -192,7 +192,7 @@
             "archived": false,
             "id": 42721854,
             "language": "C++",
-            "last_commit": "2026-08-18T03:28:34Z",
+            "last_commit": "2026-08-21T10:05:39Z",
             "owner": "KDE",
             "repo": "konversation",
             "stars": 57
@@ -233,7 +233,7 @@
                 "last_commit": "2026-08-18T07:57:32Z",
                 "owner": "thelounge",
                 "repo": "thelounge",
-                "stars": 6314
+                "stars": 6315
               }
             },
             {
@@ -245,7 +245,7 @@
                 "archived": false,
                 "id": 17359210,
                 "language": "C",
-                "last_commit": "2026-08-19T21:03:19Z",
+                "last_commit": "2026-08-21T22:06:44Z",
                 "owner": "weechat",
                 "repo": "weechat",
                 "stars": 3370
@@ -260,10 +260,10 @@
                 "archived": false,
                 "id": 465681,
                 "language": "C++",
-                "last_commit": "2026-08-20T07:20:24Z",
+                "last_commit": "2026-08-21T19:32:25Z",
                 "owner": "znc",
                 "repo": "znc",
-                "stars": 2122
+                "stars": 2121
               }
             },
             {
@@ -331,10 +331,10 @@
             "archived": false,
             "id": 3786218,
             "language": "C++",
-            "last_commit": "2026-08-17T13:51:53Z",
+            "last_commit": "2026-08-21T21:06:48Z",
             "owner": "inspircd",
             "repo": "inspircd",
-            "stars": 1342
+            "stars": 1343
           }
         },
         {
@@ -511,7 +511,7 @@
             "last_commit": "2026-08-02T09:40:13Z",
             "owner": "eggheads",
             "repo": "eggdrop",
-            "stars": 578
+            "stars": 579
           }
         },
         {
@@ -942,7 +942,7 @@
                 "archived": false,
                 "id": 45397023,
                 "language": "Go",
-                "last_commit": "2026-08-20T22:13:25Z",
+                "last_commit": "2026-08-22T01:23:32Z",
                 "owner": "42wim",
                 "repo": "matterircd",
                 "stars": 307
@@ -1180,7 +1180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:40:44.598Z",
+    "last_updated": "2026-08-22T02:31:49.513Z",
     "original_repository": "davisonio/awesome-irc",
     "original_repository_id": 49790204,
     "original_repository_sha": "bc4059b7c065aae9c4c6d8a08d65d0a478402e96",
