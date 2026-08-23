@@ -135,7 +135,7 @@
             "last_commit": "2026-06-13T10:29:47Z",
             "owner": "kvirc",
             "repo": "KVIrc",
-            "stars": 302
+            "stars": 303
           }
         },
         {
@@ -233,7 +233,7 @@
                 "last_commit": "2026-08-18T07:57:32Z",
                 "owner": "thelounge",
                 "repo": "thelounge",
-                "stars": 6315
+                "stars": 6319
               }
             },
             {
@@ -245,7 +245,7 @@
                 "archived": false,
                 "id": 17359210,
                 "language": "C",
-                "last_commit": "2026-08-21T22:06:44Z",
+                "last_commit": "2026-08-22T09:18:05Z",
                 "owner": "weechat",
                 "repo": "weechat",
                 "stars": 3370
@@ -275,7 +275,7 @@
                 "archived": false,
                 "id": 14822868,
                 "language": "Go",
-                "last_commit": "2026-08-17T14:34:47Z",
+                "last_commit": "2026-08-22T12:14:13Z",
                 "owner": "convos-chat",
                 "repo": "convos",
                 "stars": 1190
@@ -319,7 +319,7 @@
             "last_commit": "2026-08-17T02:57:02Z",
             "owner": "ergochat",
             "repo": "ergo",
-            "stars": 3307
+            "stars": 3306
           }
         },
         {
@@ -334,7 +334,7 @@
             "last_commit": "2026-08-21T21:06:48Z",
             "owner": "inspircd",
             "repo": "inspircd",
-            "stars": 1343
+            "stars": 1341
           }
         },
         {
@@ -466,7 +466,7 @@
             "last_commit": "2026-08-14T17:16:37Z",
             "owner": "wabarc",
             "repo": "wayback",
-            "stars": 2225
+            "stars": 2226
           }
         },
         {
@@ -870,7 +870,7 @@
                 "last_commit": "2024-12-12T00:20:34Z",
                 "owner": "42wim",
                 "repo": "matterbridge",
-                "stars": 7552
+                "stars": 7554
               }
             },
             {
@@ -942,7 +942,7 @@
                 "archived": false,
                 "id": 45397023,
                 "language": "Go",
-                "last_commit": "2026-08-22T01:23:32Z",
+                "last_commit": "2026-08-22T23:57:37Z",
                 "owner": "42wim",
                 "repo": "matterircd",
                 "stars": 307
@@ -1058,7 +1058,7 @@
             "archived": false,
             "id": 48411978,
             "language": "Sass",
-            "last_commit": "2025-10-02T05:57:24Z",
+            "last_commit": "2026-08-22T20:12:31Z",
             "owner": "ircdocs",
             "repo": "modern-irc",
             "stars": 230
@@ -1180,7 +1180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:31:49.513Z",
+    "last_updated": "2026-08-23T02:40:41.996Z",
     "original_repository": "davisonio/awesome-irc",
     "original_repository_id": 49790204,
     "original_repository_sha": "bc4059b7c065aae9c4c6d8a08d65d0a478402e96",
