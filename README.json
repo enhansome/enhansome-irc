@@ -147,7 +147,7 @@
             "archived": false,
             "id": 968663381,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T13:52:44Z",
+            "last_commit": "2026-08-24T06:12:47Z",
             "owner": "obbyworld",
             "repo": "obby",
             "stars": 227
@@ -192,7 +192,7 @@
             "archived": false,
             "id": 42721854,
             "language": "C++",
-            "last_commit": "2026-08-24T01:46:48Z",
+            "last_commit": "2026-08-24T03:23:04Z",
             "owner": "KDE",
             "repo": "konversation",
             "stars": 57
@@ -219,6 +219,65 @@
     {
       "description": "Useful for disconnecting and reconnecting without losing the chat session.",
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "IRCCloud",
+              "description": "Group chat for teams, friends, and communities. stay connected, chat from anywhere, and never miss a message (+client) (£0-£3.50/month).",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Android App",
+                  "description": "Official.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 5196635,
+                    "language": "Java",
+                    "last_commit": "2026-04-28T15:19:00Z",
+                    "owner": "irccloud",
+                    "repo": "android",
+                    "stars": 310
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "iOS App",
+                  "description": "Official.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 8381004,
+                    "language": "Objective-C",
+                    "last_commit": "2026-04-21T16:40:52Z",
+                    "owner": "irccloud",
+                    "repo": "ios",
+                    "stars": 300
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Nimbus",
+                  "description": "Standalone client.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1177781,
+                    "language": "Objective-C",
+                    "last_commit": "2016-12-17T13:10:04Z",
+                    "owner": "jnordberg",
+                    "repo": "irccloudapp",
+                    "stars": 152
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Hosted"
+        },
         {
           "children": [
             {
@@ -331,7 +390,7 @@
             "archived": false,
             "id": 3786218,
             "language": "C++",
-            "last_commit": "2026-08-21T21:06:48Z",
+            "last_commit": "2026-08-24T12:16:46Z",
             "owner": "inspircd",
             "repo": "inspircd",
             "stars": 1341
@@ -466,7 +525,7 @@
             "last_commit": "2026-08-14T17:16:37Z",
             "owner": "wabarc",
             "repo": "wayback",
-            "stars": 2227
+            "stars": 2228
           }
         },
         {
@@ -496,7 +555,7 @@
             "last_commit": "2026-07-23T16:38:34Z",
             "owner": "progval",
             "repo": "Limnoria",
-            "stars": 670
+            "stars": 671
           }
         },
         {
@@ -870,7 +929,7 @@
                 "last_commit": "2024-12-12T00:20:34Z",
                 "owner": "42wim",
                 "repo": "matterbridge",
-                "stars": 7554
+                "stars": 7553
               }
             },
             {
@@ -942,7 +1001,7 @@
                 "archived": false,
                 "id": 45397023,
                 "language": "Go",
-                "last_commit": "2026-08-23T20:11:30Z",
+                "last_commit": "2026-08-24T08:38:39Z",
                 "owner": "42wim",
                 "repo": "matterircd",
                 "stars": 307
@@ -1180,7 +1239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:41:35.761Z",
+    "last_updated": "2026-08-24T14:10:29.867Z",
     "original_repository": "davisonio/awesome-irc",
     "original_repository_id": 49790204,
     "original_repository_sha": "bc4059b7c065aae9c4c6d8a08d65d0a478402e96",
