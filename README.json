@@ -30,7 +30,7 @@
             "last_commit": "2026-07-03T03:35:56Z",
             "owner": "Codeux-Software",
             "repo": "Textual",
-            "stars": 1910
+            "stars": 1909
           }
         },
         {
@@ -147,7 +147,7 @@
             "archived": false,
             "id": 968663381,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T06:13:46Z",
+            "last_commit": "2026-08-23T13:52:44Z",
             "owner": "obbyworld",
             "repo": "obby",
             "stars": 227
@@ -177,7 +177,7 @@
             "archived": false,
             "id": 393831500,
             "language": "Python",
-            "last_commit": "2026-08-20T01:17:30Z",
+            "last_commit": "2026-08-23T19:05:52Z",
             "owner": "nutjob-laboratories",
             "repo": "merk",
             "stars": 74
@@ -192,7 +192,7 @@
             "archived": false,
             "id": 42721854,
             "language": "C++",
-            "last_commit": "2026-08-21T10:05:39Z",
+            "last_commit": "2026-08-24T01:46:48Z",
             "owner": "KDE",
             "repo": "konversation",
             "stars": 57
@@ -245,10 +245,10 @@
                 "archived": false,
                 "id": 17359210,
                 "language": "C",
-                "last_commit": "2026-08-22T09:18:05Z",
+                "last_commit": "2026-08-23T23:02:44Z",
                 "owner": "weechat",
                 "repo": "weechat",
-                "stars": 3370
+                "stars": 3371
               }
             },
             {
@@ -275,7 +275,7 @@
                 "archived": false,
                 "id": 14822868,
                 "language": "Go",
-                "last_commit": "2026-08-22T12:14:13Z",
+                "last_commit": "2026-08-23T18:04:02Z",
                 "owner": "convos-chat",
                 "repo": "convos",
                 "stars": 1190
@@ -316,10 +316,10 @@
             "archived": false,
             "id": 55980660,
             "language": "Go",
-            "last_commit": "2026-08-17T02:57:02Z",
+            "last_commit": "2026-08-23T07:17:18Z",
             "owner": "ergochat",
             "repo": "ergo",
-            "stars": 3306
+            "stars": 3307
           }
         },
         {
@@ -466,7 +466,7 @@
             "last_commit": "2026-08-14T17:16:37Z",
             "owner": "wabarc",
             "repo": "wayback",
-            "stars": 2226
+            "stars": 2227
           }
         },
         {
@@ -568,7 +568,7 @@
             "archived": false,
             "id": 216284647,
             "language": "Python",
-            "last_commit": "2026-08-20T03:21:22Z",
+            "last_commit": "2026-08-23T03:24:45Z",
             "owner": "TotallyNotRobots",
             "repo": "CloudBot",
             "stars": 182
@@ -942,7 +942,7 @@
                 "archived": false,
                 "id": 45397023,
                 "language": "Go",
-                "last_commit": "2026-08-22T23:57:37Z",
+                "last_commit": "2026-08-23T20:11:30Z",
                 "owner": "42wim",
                 "repo": "matterircd",
                 "stars": 307
@@ -957,7 +957,7 @@
                 "archived": false,
                 "id": 127798941,
                 "language": "Go",
-                "last_commit": "2026-08-17T02:12:33Z",
+                "last_commit": "2026-08-24T02:12:13Z",
                 "owner": "insomniacslk",
                 "repo": "irc-slack",
                 "stars": 206
@@ -1180,7 +1180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:40:41.996Z",
+    "last_updated": "2026-08-24T02:41:35.761Z",
     "original_repository": "davisonio/awesome-irc",
     "original_repository_id": 49790204,
     "original_repository_sha": "bc4059b7c065aae9c4c6d8a08d65d0a478402e96",

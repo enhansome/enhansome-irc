@@ -44,10 +44,10 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 * [![Circe-icon](https://user-images.githubusercontent.com/15098724/56875558-a3a6ce00-69f6-11e9-92da-2e4d8c7b4a53.png) Circe](https://github.com/emacs-circe/circe) ⭐ 443 | 🐛 87 | 🌐 Emacs Lisp | 📅 2026-05-25 - For use in Emacs, sane defaults. `Emacs`
 * [![CIRC-icon](https://user-images.githubusercontent.com/15098724/56875201-1498b680-69f4-11e9-91ff-ae3b674c82be.png) CIRC](https://flackr.github.io/circ/) - Uses the chrome.sockets APIs to connect directly to IRC servers without needing a proxy. ([source](https://github.com/flackr/circ) ⭐ 385 | 🐛 172 | 🌐 JavaScript | 📅 2022-03-29) `Chrome`
 * [![KvIRC-icon](https://user-images.githubusercontent.com/15098724/56874636-1d878900-69f0-11e9-856e-719c4c822e25.png) KvIRC](https://www.kvirc.net) - Free, portable, based on Qt GUI toolkit. ([source](https://github.com/kvirc/KVIrc) ⭐ 303 | 🐛 213 | 🌐 C++ | 📅 2026-06-13) `Linux` `macOS` `Windows`
-* [ObsidianIRC](https://hello.obby.world/) - Modern WebSocket IRC client with Discord-like UI. ([source](https://github.com/obbyworld/obby) ⭐ 227 | 🐛 48 | 🌐 TypeScript | 📅 2026-08-17) `Linux` `Windows` `macOS` `Android` `iOS` `Web`
+* [ObsidianIRC](https://hello.obby.world/) - Modern WebSocket IRC client with Discord-like UI. ([source](https://github.com/obbyworld/obby) ⭐ 227 | 🐛 52 | 🌐 TypeScript | 📅 2026-08-23) `Linux` `Windows` `macOS` `Android` `iOS` `Web`
 * [![Smuxi-icon](https://user-images.githubusercontent.com/15098724/56875672-2f205f00-69f7-11e9-8cac-5721602234bb.png) Smuxi](https://smuxi.im) - User-friendly, based on GNOME / GTK+. ([source](https://github.com/meebey/smuxi) ⭐ 187 | 🐛 38 | 🌐 C# | 📅 2025-12-29) `Linux` `Windows` `macOS`
-* [MERK](https://github.com/nutjob-laboratories/merk) ⭐ 74 | 🐛 0 | 🌐 Python | 📅 2026-08-20 - Open source, multiple-document interface GUI client with a rich plugin framework supporting 40+ events; plugins created directly inside the app. `Windows` `macOS` `Linux` `Python`
-* [![Konversation-icon](https://user-images.githubusercontent.com/15098724/56876024-609a2a00-69f9-11e9-91dd-196f310776d7.png) Konversation](https://konversation.kde.org) - User-friendly client built on the KDE Platform. ([source](https://github.com/KDE/konversation) ⭐ 57 | 🐛 0 | 🌐 C++ | 📅 2026-08-21) `Linux`
+* [MERK](https://github.com/nutjob-laboratories/merk) ⭐ 74 | 🐛 0 | 🌐 Python | 📅 2026-08-23 - Open source, multiple-document interface GUI client with a rich plugin framework supporting 40+ events; plugins created directly inside the app. `Windows` `macOS` `Linux` `Python`
+* [![Konversation-icon](https://user-images.githubusercontent.com/15098724/56876024-609a2a00-69f9-11e9-91dd-196f310776d7.png) Konversation](https://konversation.kde.org) - User-friendly client built on the KDE Platform. ([source](https://github.com/KDE/konversation) ⭐ 57 | 🐛 0 | 🌐 C++ | 📅 2026-08-24) `Linux`
 * [Iridium](https://appcenter.elementary.io/com.github.avojak.iridium/) - Friendly IRC client built in Vala and GTK, designed for elementary OS. ([source](https://github.com/avojak/iridium) ⭐ 57 | 🐛 29 | 🌐 Vala | 📅 2023-03-12) `Linux`
 * [gamja](https://sr.ht/~emersion/gamja/) - A simple IRC web client. ([source](https://git.sr.ht/~emersion/gamja)) `Web`
 * [![sic-icon](https://user-images.githubusercontent.com/15098724/56876157-457bea00-69fa-11e9-94f5-11dcd0bfb00c.png) sic](https://tools.suckless.org/sic/) - **S**imple **I**RC **c**lient - a terminal client in less than 250 lines of C. `Linux` `macOS`
@@ -71,16 +71,16 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 ### Hosted
 
 * [![IRCCloud-icon](https://user-images.githubusercontent.com/15098724/56879253-ba581f80-6a0c-11e9-8f6b-8461c10ed149.png) IRCCloud](https://www.irccloud.com) - Group chat for teams, friends, and communities. stay connected, chat from anywhere, and never miss a message (+client) (£0-£3.50/month).
-  * [iOS App](https://github.com/irccloud/ios) ⭐ 299 | 🐛 24 | 🌐 Objective-C | 📅 2026-04-21 - Official. `Objective-C`
-  * [Android App](https://github.com/irccloud/android) ⭐ 309 | 🐛 32 | 🌐 Java | 📅 2026-04-28 - Official. `Java`
+  * [iOS App](https://github.com/irccloud/ios) ⭐ 300 | 🐛 24 | 🌐 Objective-C | 📅 2026-04-21 - Official. `Objective-C`
+  * [Android App](https://github.com/irccloud/android) ⭐ 310 | 🐛 32 | 🌐 Java | 📅 2026-04-28 - Official. `Java`
   * [Nimbus](https://github.com/jnordberg/irccloudapp) ⭐ 152 | 🐛 5 | 🌐 Objective-C | 📅 2016-12-17 - Standalone client. `macOS` `Objective-C`
 
 ### Self-hosted
 
 * [![TheLounge-icon](https://user-images.githubusercontent.com/15098724/56899491-6b2fe000-6a48-11e9-9f01-1ed2cfb86b09.png) TheLounge](https://thelounge.chat) - Responsive, self-hosted & support for multiple users. ([source](https://github.com/thelounge/thelounge) ⭐ 6,319 | 🐛 315 | 🌐 TypeScript | 📅 2026-08-18, [demo](https://demo.thelounge.chat/)) `JavaScript` `Node.js` `Web`
-* [![WeeChat-icon](https://user-images.githubusercontent.com/15098724/56876389-e028f880-69fb-11e9-82d6-8084e17f2f04.png) WeeChat](https://weechat.org) - A fast, light and extensible chat client. ([source](https://github.com/weechat/weechat) ⭐ 3,370 | 🐛 444 | 🌐 C | 📅 2026-08-22) `Linux` `macOS`
-* [![ZNC-icon](https://user-images.githubusercontent.com/15098724/56879721-d8268400-6a0e-11e9-8b74-c2c748d15c4a.png) ZNC](https://wiki.znc.in/ZNC) - Most popular. many different plugins. ([source](https://github.com/znc/znc) ⭐ 2,121 | 🐛 387 | 🌐 C++ | 📅 2026-08-21) `C++`
-* [![Convos-icon](https://user-images.githubusercontent.com/15098724/56879497-d8724f80-6a0d-11e9-844d-7a5380b4524b.png) Convos](https://convos.chat) - Always online web IRC client. ([source](https://github.com/convos-chat/convos) ⭐ 1,190 | 🐛 56 | 🌐 Go | 📅 2026-08-22) `Perl` `JavaScript` `Web`
+* [![WeeChat-icon](https://user-images.githubusercontent.com/15098724/56876389-e028f880-69fb-11e9-82d6-8084e17f2f04.png) WeeChat](https://weechat.org) - A fast, light and extensible chat client. ([source](https://github.com/weechat/weechat) ⭐ 3,371 | 🐛 443 | 🌐 C | 📅 2026-08-23) `Linux` `macOS`
+* [![ZNC-icon](https://user-images.githubusercontent.com/15098724/56879721-d8268400-6a0e-11e9-8b74-c2c748d15c4a.png) ZNC](https://wiki.znc.in/ZNC) - Most popular. many different plugins. ([source](https://github.com/znc/znc) ⭐ 2,121 | 🐛 388 | 🌐 C++ | 📅 2026-08-21) `C++`
+* [![Convos-icon](https://user-images.githubusercontent.com/15098724/56879497-d8724f80-6a0d-11e9-844d-7a5380b4524b.png) Convos](https://convos.chat) - Always online web IRC client. ([source](https://github.com/convos-chat/convos) ⭐ 1,190 | 🐛 56 | 🌐 Go | 📅 2026-08-23) `Perl` `JavaScript` `Web`
 * [sms-webhook](https://github.com/terminaldweller/sms-webhook) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2026-02-10 - A simple webhook to receive SMS messages on IRC. `Go`
 * [![BIP-icon](https://user-images.githubusercontent.com/15098724/56899123-89491080-6a47-11e9-8513-4c8d09be32d9.png) BIP IRC Proxy](https://packages.debian.org/sid/bip) - Always online, lightweight and secure Open Source IRC proxying with backlogging. ([source](https://salsa.debian.org/debian/bip)) `C`
 * [soju](https://codeberg.org/emersion/soju) - A user-friendly IRC bouncer. `Go`
@@ -90,7 +90,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 *Used for running your own IRC server or network.*
 
-* [Ergo](https://ergo.chat/) - Modern server that's portable and designed around specifications (bleeding-edge IRCv3 support). ([source](https://github.com/ergochat/ergo) ⭐ 3,306 | 🐛 200 | 🌐 Go | 📅 2026-08-17)
+* [Ergo](https://ergo.chat/) - Modern server that's portable and designed around specifications (bleeding-edge IRCv3 support). ([source](https://github.com/ergochat/ergo) ⭐ 3,307 | 🐛 200 | 🌐 Go | 📅 2026-08-23)
 * [InspIRCd](https://www.inspircd.org) - Modular, stable, written from scratch. ([source](https://github.com/inspircd/inspircd) ⭐ 1,341 | 🐛 112 | 🌐 C++ | 📅 2026-08-21)
 * [ngIRCd](https://ngircd.barton.de) - Portable and lightweight for small or private networks. ([source](https://github.com/ngircd/ngircd) ⭐ 574 | 🐛 31 | 🌐 C | 📅 2026-07-12)
 * [ircd.js](https://github.com/alexyoung/ircd.js) ⭐ 531 | 🐛 12 | 🌐 JavaScript | 📅 2021-05-31 - Server will allow clients to connect, join channels, change topics; basic stuff.
@@ -109,14 +109,14 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 *IRC users which provide services for humans, e.g. integrations or information.*
 
-* [wayback](https://github.com/wabarc/wayback) ⭐ 2,226 | 🐛 60 | 🌐 Go | 📅 2026-08-14 - An archiving tool with an IRC interface integrated with various archiving services.
+* [wayback](https://github.com/wabarc/wayback) ⭐ 2,227 | 🐛 60 | 🌐 Go | 📅 2026-08-14 - An archiving tool with an IRC interface integrated with various archiving services.
 * [Sopel](https://sopel.chat) - Tonnes of ready made features, tutorial, fully documented. ([source](https://github.com/sopel-irc/sopel) ⭐ 981 | 🐛 167 | 🌐 Python | 📅 2026-08-18) `Python`
 * [Limnoria](https://github.com/ProgVal/Limnoria) ⭐ 670 | 🐛 254 | 🌐 Python | 📅 2026-07-23 - Robust, user friendly, developer friendly. `Python`
 * [Eggdrop](https://www.eggheads.org) - Oldest IRC bot still in active development. Feature rich, uses Tcl scripting. ([source](https://github.com/eggheads/eggdrop) ⭐ 579 | 🐛 250 | 🌐 C | 📅 2026-08-02) `C`
 * [Twitch Plays](https://github.com/aidanrwt/twitch-plays) ⭐ 276 | 🐛 4 | 🌐 Python | 📅 2014-02-22 - Takes input from the chat and presses the corresponding key. `Python`
 * [Skybot](https://github.com/rmmh/skybot) ⭐ 248 | 🐛 15 | 🌐 Python | 📅 2026-07-17 - Main goals are simplicity and power. `Python`
 * [geordi](https://github.com/Eelis/geordi) ⭐ 182 | 🐛 2 | 🌐 Haskell | 📅 2022-10-05 - Compiles and runs C++ code snippets. `C++`
-* [CloudBot](https://github.com/TotallyNotRobots/CloudBot) ⭐ 182 | 🐛 24 | 🌐 Python | 📅 2026-08-20 - Simple, fast, expandable. `Python`
+* [CloudBot](https://github.com/TotallyNotRobots/CloudBot) ⭐ 182 | 🐛 24 | 🌐 Python | 📅 2026-08-23 - Simple, fast, expandable. `Python`
 * [lazybot](https://github.com/Raynes/lazybot) ⭐ 153 | 🐛 16 | 🌐 Clojure | 📅 2015-06-17 - User-friendly and powerful. `Clojure`
 * [BitBot](https://github.com/bitbot-irc/bitbot) ⭐ 149 | 🐛 94 | 🌐 Python | 📅 2025-01-10 - Modular, event-driven bot featuring a REST API, individual user settings and much more. ([bitbot.dev](https://bitbot.dev)) `Python`
 * [Cardinal](https://github.com/JohnMaguire/Cardinal) ⭐ 104 | 🐛 19 | 🌐 Python | 📅 2026-07-27 - Python Twisted IRC bot with a focus on ease of plugin development. `Python`
@@ -158,8 +158,8 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 * [slack-irc](https://github.com/ekmartin/slack-irc) ⭐ 589 | 🐛 29 | 🌐 JavaScript | 📅 2022-10-12 - Slack ↔ IRC. `JavaScript`
 * [Appservice-IRC](https://github.com/matrix-org/matrix-appservice-irc) ⭐ 505 | 🐛 505 | 🌐 TypeScript | 📅 2026-04-02 - Gateway and bridge Matrix ↔ IRC `Javascript`
 * [Heisenbridge](https://github.com/hifi/heisenbridge) ⭐ 309 | 🐛 85 | 🌐 Python | 📅 2025-10-04 - Bouncer-style Matrix IRC bridge `Python`
-* [matterircd](https://github.com/42wim/matterircd) ⭐ 307 | 🐛 6 | 🌐 Go | 📅 2026-08-22 - Matterbridge ↔ IRC, Slack ↔ IRC, Mastodon ↔ IRC. `Go`
-* [irc-slack](https://github.com/insomniacslk/irc-slack) ⭐ 206 | 🐛 25 | 🌐 Go | 📅 2026-08-17 - Slack ↔ IRC. `Go`
+* [matterircd](https://github.com/42wim/matterircd) ⭐ 307 | 🐛 5 | 🌐 Go | 📅 2026-08-23 - Matterbridge ↔ IRC, Slack ↔ IRC, Mastodon ↔ IRC. `Go`
+* [irc-slack](https://github.com/insomniacslk/irc-slack) ⭐ 206 | 🐛 27 | 🌐 Go | 📅 2026-08-24 - Slack ↔ IRC. `Go`
 * [teleirc](https://github.com/RITlug/teleirc) ⭐ 159 | 🐛 39 | 🌐 Go | 📅 2026-01-11 - Telegram ↔ IRC. `JavaScript`
 * [Dis4IRC](https://github.com/zachbr/Dis4IRC) ⭐ 117 | 🐛 21 | 🌐 Kotlin | 📅 2026-05-10 - Discord ↔ IRC. `Kotlin`
 * [toxirc](https://github.com/e0ff/toxirc) ⭐ 22 | 🐛 2 | 🌐 C | 📅 2024-02-17 - Tox ↔ IRC. `C`
@@ -240,4 +240,4 @@ By [Craig Davison](https://davison.io) and contributors.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
