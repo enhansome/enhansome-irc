@@ -177,7 +177,7 @@
             "archived": false,
             "id": 393831500,
             "language": "Python",
-            "last_commit": "2026-08-23T19:05:52Z",
+            "last_commit": "2026-08-24T14:30:30Z",
             "owner": "nutjob-laboratories",
             "repo": "merk",
             "stars": 74
@@ -322,7 +322,7 @@
                 "last_commit": "2026-08-21T19:32:25Z",
                 "owner": "znc",
                 "repo": "znc",
-                "stars": 2121
+                "stars": 2122
               }
             },
             {
@@ -390,7 +390,7 @@
             "archived": false,
             "id": 3786218,
             "language": "C++",
-            "last_commit": "2026-08-24T12:16:46Z",
+            "last_commit": "2026-08-24T19:38:31Z",
             "owner": "inspircd",
             "repo": "inspircd",
             "stars": 1341
@@ -525,7 +525,7 @@
             "last_commit": "2026-08-14T17:16:37Z",
             "owner": "wabarc",
             "repo": "wayback",
-            "stars": 2228
+            "stars": 2227
           }
         },
         {
@@ -944,7 +944,7 @@
                 "last_commit": "2023-11-25T09:52:53Z",
                 "owner": "reactiflux",
                 "repo": "discord-irc",
-                "stars": 1225
+                "stars": 1226
               }
             },
             {
@@ -1016,7 +1016,7 @@
                 "archived": false,
                 "id": 127798941,
                 "language": "Go",
-                "last_commit": "2026-08-24T02:12:13Z",
+                "last_commit": "2026-08-24T15:16:25Z",
                 "owner": "insomniacslk",
                 "repo": "irc-slack",
                 "stars": 206
@@ -1239,7 +1239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:10:29.867Z",
+    "last_updated": "2026-08-25T02:34:46.753Z",
     "original_repository": "davisonio/awesome-irc",
     "original_repository_id": 49790204,
     "original_repository_sha": "bc4059b7c065aae9c4c6d8a08d65d0a478402e96",
