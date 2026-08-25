@@ -150,7 +150,7 @@
             "last_commit": "2026-08-24T06:12:47Z",
             "owner": "obbyworld",
             "repo": "obby",
-            "stars": 227
+            "stars": 228
           }
         },
         {
@@ -929,7 +929,7 @@
                 "last_commit": "2024-12-12T00:20:34Z",
                 "owner": "42wim",
                 "repo": "matterbridge",
-                "stars": 7553
+                "stars": 7554
               }
             },
             {
@@ -1001,7 +1001,7 @@
                 "archived": false,
                 "id": 45397023,
                 "language": "Go",
-                "last_commit": "2026-08-24T08:38:39Z",
+                "last_commit": "2026-08-25T05:42:55Z",
                 "owner": "42wim",
                 "repo": "matterircd",
                 "stars": 307
@@ -1239,7 +1239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:34:46.753Z",
+    "last_updated": "2026-08-25T06:03:29.009Z",
     "original_repository": "davisonio/awesome-irc",
     "original_repository_id": 49790204,
     "original_repository_sha": "bc4059b7c065aae9c4c6d8a08d65d0a478402e96",

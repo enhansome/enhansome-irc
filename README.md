@@ -44,7 +44,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 * [![Circe-icon](https://user-images.githubusercontent.com/15098724/56875558-a3a6ce00-69f6-11e9-92da-2e4d8c7b4a53.png) Circe](https://github.com/emacs-circe/circe) ⭐ 443 | 🐛 87 | 🌐 Emacs Lisp | 📅 2026-05-25 - For use in Emacs, sane defaults. `Emacs`
 * [![CIRC-icon](https://user-images.githubusercontent.com/15098724/56875201-1498b680-69f4-11e9-91ff-ae3b674c82be.png) CIRC](https://flackr.github.io/circ/) - Uses the chrome.sockets APIs to connect directly to IRC servers without needing a proxy. ([source](https://github.com/flackr/circ) ⭐ 385 | 🐛 172 | 🌐 JavaScript | 📅 2022-03-29) `Chrome`
 * [![KvIRC-icon](https://user-images.githubusercontent.com/15098724/56874636-1d878900-69f0-11e9-856e-719c4c822e25.png) KvIRC](https://www.kvirc.net) - Free, portable, based on Qt GUI toolkit. ([source](https://github.com/kvirc/KVIrc) ⭐ 303 | 🐛 213 | 🌐 C++ | 📅 2026-06-13) `Linux` `macOS` `Windows`
-* [ObsidianIRC](https://hello.obby.world/) - Modern WebSocket IRC client with Discord-like UI. ([source](https://github.com/obbyworld/obby) ⭐ 227 | 🐛 52 | 🌐 TypeScript | 📅 2026-08-24) `Linux` `Windows` `macOS` `Android` `iOS` `Web`
+* [ObsidianIRC](https://hello.obby.world/) - Modern WebSocket IRC client with Discord-like UI. ([source](https://github.com/obbyworld/obby) ⭐ 228 | 🐛 52 | 🌐 TypeScript | 📅 2026-08-24) `Linux` `Windows` `macOS` `Android` `iOS` `Web`
 * [![Smuxi-icon](https://user-images.githubusercontent.com/15098724/56875672-2f205f00-69f7-11e9-8cac-5721602234bb.png) Smuxi](https://smuxi.im) - User-friendly, based on GNOME / GTK+. ([source](https://github.com/meebey/smuxi) ⭐ 187 | 🐛 38 | 🌐 C# | 📅 2025-12-29) `Linux` `Windows` `macOS`
 * [MERK](https://github.com/nutjob-laboratories/merk) ⭐ 74 | 🐛 0 | 🌐 Python | 📅 2026-08-24 - Open source, multiple-document interface GUI client with a rich plugin framework supporting 40+ events; plugins created directly inside the app. `Windows` `macOS` `Linux` `Python`
 * [![Konversation-icon](https://user-images.githubusercontent.com/15098724/56876024-609a2a00-69f9-11e9-91dd-196f310776d7.png) Konversation](https://konversation.kde.org) - User-friendly client built on the KDE Platform. ([source](https://github.com/KDE/konversation) ⭐ 57 | 🐛 0 | 🌐 C++ | 📅 2026-08-24) `Linux`
@@ -153,12 +153,12 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 *Sends messages back and forth.*
 
-* [matterbridge](https://github.com/42wim/matterbridge) ⭐ 7,553 | 🐛 342 | 🌐 Go | 📅 2024-12-12 - IRC ↔ Mattermost ↔ Discord ↔ XMPP ↔ Gitter ↔ Slack ↔ Discord ↔ Telegram ↔ etc. `Go`
+* [matterbridge](https://github.com/42wim/matterbridge) ⭐ 7,554 | 🐛 342 | 🌐 Go | 📅 2024-12-12 - IRC ↔ Mattermost ↔ Discord ↔ XMPP ↔ Gitter ↔ Slack ↔ Discord ↔ Telegram ↔ etc. `Go`
 * [discord-irc](https://github.com/reactiflux/discord-irc) ⭐ 1,226 | 🐛 75 | 🌐 JavaScript | 📅 2023-11-25 - Discord ↔ IRC. `JavaScript`
 * [slack-irc](https://github.com/ekmartin/slack-irc) ⭐ 589 | 🐛 29 | 🌐 JavaScript | 📅 2022-10-12 - Slack ↔ IRC. `JavaScript`
 * [Appservice-IRC](https://github.com/matrix-org/matrix-appservice-irc) ⭐ 505 | 🐛 505 | 🌐 TypeScript | 📅 2026-04-02 - Gateway and bridge Matrix ↔ IRC `Javascript`
 * [Heisenbridge](https://github.com/hifi/heisenbridge) ⭐ 309 | 🐛 85 | 🌐 Python | 📅 2025-10-04 - Bouncer-style Matrix IRC bridge `Python`
-* [matterircd](https://github.com/42wim/matterircd) ⭐ 307 | 🐛 6 | 🌐 Go | 📅 2026-08-24 - Matterbridge ↔ IRC, Slack ↔ IRC, Mastodon ↔ IRC. `Go`
+* [matterircd](https://github.com/42wim/matterircd) ⭐ 307 | 🐛 6 | 🌐 Go | 📅 2026-08-25 - Matterbridge ↔ IRC, Slack ↔ IRC, Mastodon ↔ IRC. `Go`
 * [irc-slack](https://github.com/insomniacslk/irc-slack) ⭐ 206 | 🐛 24 | 🌐 Go | 📅 2026-08-24 - Slack ↔ IRC. `Go`
 * [teleirc](https://github.com/RITlug/teleirc) ⭐ 159 | 🐛 39 | 🌐 Go | 📅 2026-01-11 - Telegram ↔ IRC. `JavaScript`
 * [Dis4IRC](https://github.com/zachbr/Dis4IRC) ⭐ 117 | 🐛 21 | 🌐 Kotlin | 📅 2026-05-10 - Discord ↔ IRC. `Kotlin`
