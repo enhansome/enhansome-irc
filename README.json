@@ -45,7 +45,7 @@
             "last_commit": "2021-11-22T03:01:21Z",
             "owner": "psychs",
             "repo": "limechat",
-            "stars": 1582
+            "stars": 1583
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-05-25T11:14:34Z",
             "owner": "emacs-circe",
             "repo": "circe",
-            "stars": 443
+            "stars": 444
           }
         },
         {
@@ -292,7 +292,7 @@
                 "last_commit": "2026-08-18T07:57:32Z",
                 "owner": "thelounge",
                 "repo": "thelounge",
-                "stars": 6319
+                "stars": 6318
               }
             },
             {
@@ -304,7 +304,7 @@
                 "archived": false,
                 "id": 17359210,
                 "language": "C",
-                "last_commit": "2026-08-23T23:02:44Z",
+                "last_commit": "2026-08-25T19:56:41Z",
                 "owner": "weechat",
                 "repo": "weechat",
                 "stars": 3371
@@ -334,7 +334,7 @@
                 "archived": false,
                 "id": 14822868,
                 "language": "Go",
-                "last_commit": "2026-08-23T18:04:02Z",
+                "last_commit": "2026-08-25T15:41:22Z",
                 "owner": "convos-chat",
                 "repo": "convos",
                 "stars": 1190
@@ -390,7 +390,7 @@
             "archived": false,
             "id": 3786218,
             "language": "C++",
-            "last_commit": "2026-08-24T19:38:31Z",
+            "last_commit": "2026-08-25T11:49:41Z",
             "owner": "inspircd",
             "repo": "inspircd",
             "stars": 1341
@@ -501,7 +501,7 @@
             "archived": false,
             "id": 909217,
             "language": "C++",
-            "last_commit": "2026-08-17T14:52:50Z",
+            "last_commit": "2026-08-25T15:36:35Z",
             "owner": "anope",
             "repo": "anope",
             "stars": 363
@@ -1001,7 +1001,7 @@
                 "archived": false,
                 "id": 45397023,
                 "language": "Go",
-                "last_commit": "2026-08-25T05:42:55Z",
+                "last_commit": "2026-08-26T00:44:24Z",
                 "owner": "42wim",
                 "repo": "matterircd",
                 "stars": 307
@@ -1239,7 +1239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:03:29.009Z",
+    "last_updated": "2026-08-26T02:43:04.122Z",
     "original_repository": "davisonio/awesome-irc",
     "original_repository_id": 49790204,
     "original_repository_sha": "bc4059b7c065aae9c4c6d8a08d65d0a478402e96",
