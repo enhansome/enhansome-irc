@@ -192,7 +192,7 @@
             "archived": false,
             "id": 42721854,
             "language": "C++",
-            "last_commit": "2026-08-24T03:23:04Z",
+            "last_commit": "2026-08-27T11:25:55Z",
             "owner": "KDE",
             "repo": "konversation",
             "stars": 57
@@ -289,10 +289,10 @@
                 "archived": false,
                 "id": 51344082,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T07:57:32Z",
+                "last_commit": "2026-08-26T20:33:00Z",
                 "owner": "thelounge",
                 "repo": "thelounge",
-                "stars": 6318
+                "stars": 6317
               }
             },
             {
@@ -334,7 +334,7 @@
                 "archived": false,
                 "id": 14822868,
                 "language": "Go",
-                "last_commit": "2026-08-25T15:41:22Z",
+                "last_commit": "2026-08-27T06:53:41Z",
                 "owner": "convos-chat",
                 "repo": "convos",
                 "stars": 1190
@@ -375,10 +375,10 @@
             "archived": false,
             "id": 55980660,
             "language": "Go",
-            "last_commit": "2026-08-23T07:17:18Z",
+            "last_commit": "2026-08-27T03:08:26Z",
             "owner": "ergochat",
             "repo": "ergo",
-            "stars": 3307
+            "stars": 3308
           }
         },
         {
@@ -390,7 +390,7 @@
             "archived": false,
             "id": 3786218,
             "language": "C++",
-            "last_commit": "2026-08-25T11:49:41Z",
+            "last_commit": "2026-08-26T22:19:14Z",
             "owner": "inspircd",
             "repo": "inspircd",
             "stars": 1341
@@ -453,7 +453,7 @@
             "last_commit": "2025-02-12T20:04:18Z",
             "owner": "jrosdahl",
             "repo": "miniircd",
-            "stars": 450
+            "stars": 451
           }
         },
         {
@@ -522,10 +522,10 @@
             "archived": false,
             "id": 271984275,
             "language": "Go",
-            "last_commit": "2026-08-14T17:16:37Z",
+            "last_commit": "2026-08-26T22:06:53Z",
             "owner": "wabarc",
             "repo": "wayback",
-            "stars": 2227
+            "stars": 2228
           }
         },
         {
@@ -627,7 +627,7 @@
             "archived": false,
             "id": 216284647,
             "language": "Python",
-            "last_commit": "2026-08-23T03:24:45Z",
+            "last_commit": "2026-08-27T04:55:29Z",
             "owner": "TotallyNotRobots",
             "repo": "CloudBot",
             "stars": 182
@@ -672,7 +672,7 @@
             "archived": false,
             "id": 8061014,
             "language": "Python",
-            "last_commit": "2026-07-27T06:22:09Z",
+            "last_commit": "2026-08-26T04:05:58Z",
             "owner": "johnmaguire",
             "repo": "Cardinal",
             "stars": 104
@@ -1001,7 +1001,7 @@
                 "archived": false,
                 "id": 45397023,
                 "language": "Go",
-                "last_commit": "2026-08-26T00:44:24Z",
+                "last_commit": "2026-08-27T08:04:10Z",
                 "owner": "42wim",
                 "repo": "matterircd",
                 "stars": 307
@@ -1239,9 +1239,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:43:04.122Z",
-    "original_repository": "davisonio/awesome-irc",
-    "original_repository_id": 49790204,
+    "last_updated": "2026-08-27T11:48:39.483Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 49790204,
+      "language": null,
+      "last_commit": "2026-08-11T19:26:52Z",
+      "owner": "davisonio",
+      "repo": "awesome-irc",
+      "stars": 1327
+    },
     "original_repository_sha": "bc4059b7c065aae9c4c6d8a08d65d0a478402e96",
     "enhanced_repository": "enhansome/enhansome-irc",
     "enhanced_repository_description": null,
