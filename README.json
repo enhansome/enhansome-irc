@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "GTK+ IRC client",
+            "homepage": "https://hexchat.github.io",
             "id": 4994785,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2024-08-19T02:29:21Z",
+            "open_issues": 768,
             "owner": "hexchat",
             "repo": "hexchat",
-            "stars": 3231
+            "stars": 3231,
+            "topics": [
+              "c",
+              "gtk",
+              "hexchat",
+              "irc",
+              "irc-client",
+              "linux",
+              "meson",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -26,12 +40,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Textual is an IRC client for OS X",
+            "homepage": "https://www.codeux.com/textual/",
             "id": 792833,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2026-07-03T03:35:56Z",
+            "open_issues": 26,
             "owner": "Codeux-Software",
             "repo": "Textual",
-            "stars": 1909
+            "stars": 1909,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -42,12 +61,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IRC Client for Mac",
+            "homepage": "http://limechat.net/mac/",
             "id": 4016,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2021-11-22T03:01:21Z",
+            "open_issues": 197,
             "owner": "psychs",
             "repo": "limechat",
-            "stars": 1583
+            "stars": 1583,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -58,12 +82,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🥝 Next generation of the Kiwi IRC web client",
+            "homepage": "https://kiwiirc.com/",
             "id": 75491939,
             "language": "Vue",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-19T23:28:33Z",
+            "open_issues": 194,
             "owner": "kiwiirc",
             "repo": "kiwiirc",
-            "stars": 983
+            "stars": 983,
+            "topics": [
+              "chat",
+              "client",
+              "irc",
+              "irc-client",
+              "messenger",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -74,12 +110,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quassel IRC: Chat comfortably.  Everywhere.",
+            "homepage": "https://quassel-irc.org/",
             "id": 7007419,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-27T12:03:33Z",
+            "open_issues": 24,
             "owner": "quassel",
             "repo": "quassel",
-            "stars": 791
+            "stars": 791,
+            "topics": [
+              "bouncer",
+              "irc",
+              "irc-client",
+              "quassel"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -90,12 +136,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern Android IRC client. #revolutionirc on Libera.chat",
+            "homepage": null,
             "id": 100821244,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2024-01-01T04:31:59Z",
+            "open_issues": 197,
             "owner": "MCMrARM",
             "repo": "revolution-irc",
-            "stars": 613
+            "stars": 613,
+            "topics": [
+              "android",
+              "chat",
+              "irc",
+              "irc-client"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -106,12 +162,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Circe, a Client for IRC in Emacs",
+            "homepage": null,
             "id": 6102770,
             "language": "Emacs Lisp",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-25T11:14:34Z",
+            "open_issues": 87,
             "owner": "emacs-circe",
             "repo": "circe",
-            "stars": 445
+            "stars": 445,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -122,12 +183,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An IRC packaged chrome app",
+            "homepage": null,
             "id": 5592929,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-03-29T03:48:14Z",
+            "open_issues": 172,
             "owner": "flackr",
             "repo": "circ",
-            "stars": 385
+            "stars": 385,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -138,12 +204,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The KVIrc IRC Client",
+            "homepage": "http://www.kvirc.net/",
             "id": 39708674,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-06-13T10:29:47Z",
+            "open_issues": 213,
             "owner": "kvirc",
             "repo": "KVIrc",
-            "stars": 303
+            "stars": 303,
+            "topics": [
+              "irc",
+              "irc-client",
+              "qt5",
+              "qt6"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -154,12 +230,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern IRC Client for the web, desktop and mobile.",
+            "homepage": "https://hello.obby.world",
             "id": 968663381,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-24T06:12:47Z",
+            "open_issues": 52,
             "owner": "obbyworld",
             "repo": "obby",
-            "stars": 228
+            "stars": 228,
+            "topics": [
+              "avatars",
+              "docker",
+              "golang",
+              "irc",
+              "irc-client",
+              "ircv3",
+              "metadata",
+              "reactjs",
+              "tailwindcss",
+              "tauri",
+              "tcp",
+              "typescript",
+              "unrealircd",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -170,12 +266,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Smuxi is an user-friendly and free IRC client for Linux, Windows and Mac OS X based on GNOME / GTK+",
+            "homepage": "https://smuxi.im/",
             "id": 2728572,
             "language": "C#",
+            "license": "GPL-2.0",
             "last_commit": "2025-12-29T15:39:49Z",
+            "open_issues": 38,
             "owner": "meebey",
             "repo": "smuxi",
-            "stars": 187
+            "stars": 187,
+            "topics": [
+              "gnome",
+              "irc-client",
+              "jabber-client",
+              "twitter-client",
+              "xmpp-client"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -186,12 +293,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MERK is an open source, cross-platform, multiple-document interface GUI IRC client for Windows, Linux, and macOS written in Python, PyQt5, and Twisted.",
+            "homepage": null,
             "id": 393831500,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T23:50:28Z",
+            "open_issues": 0,
             "owner": "nutjob-laboratories",
             "repo": "merk",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "chat",
+              "chat-app",
+              "chat-application",
+              "chatapp",
+              "chatroom",
+              "free",
+              "gplv3",
+              "gui-application",
+              "internet",
+              "internet-relay-chat",
+              "irc",
+              "irc-client",
+              "open-source",
+              "pyqt5",
+              "pyqt5-desktop-application",
+              "pyqt5-gui-application",
+              "python",
+              "python3",
+              "twisted",
+              "twisted-library"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -202,12 +335,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "User-friendly and fully-featured IRC client",
+            "homepage": "https://invent.kde.org/network/konversation",
             "id": 42721854,
             "language": "C++",
+            "license": null,
             "last_commit": "2026-08-27T11:25:55Z",
+            "open_issues": 0,
             "owner": "KDE",
             "repo": "konversation",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -218,12 +356,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Native Linux IRC client built in Vala and Gtk for elementary OS",
+            "homepage": null,
             "id": 184354930,
             "language": "Vala",
+            "license": "GPL-3.0",
             "last_commit": "2023-03-12T01:25:07Z",
+            "open_issues": 29,
             "owner": "avojak",
             "repo": "iridium",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "elementary-os",
+              "gtk",
+              "gtk3",
+              "irc",
+              "irc-client",
+              "linux",
+              "vala",
+              "vala-applications"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         }
@@ -247,12 +399,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "IRCCloud Android App",
+                    "homepage": null,
                     "id": 5196635,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-04-28T15:19:00Z",
+                    "open_issues": 32,
                     "owner": "irccloud",
                     "repo": "android",
-                    "stars": 310
+                    "stars": 310,
+                    "topics": [
+                      "android",
+                      "chat",
+                      "irc",
+                      "irccloud",
+                      "mobile-app"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:03:31.399Z"
                 },
@@ -263,12 +426,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "IRCCloud iOS App",
+                    "homepage": null,
                     "id": 8381004,
                     "language": "Objective-C",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-04-21T16:40:52Z",
+                    "open_issues": 24,
                     "owner": "irccloud",
                     "repo": "ios",
-                    "stars": 300
+                    "stars": 300,
+                    "topics": [
+                      "chat",
+                      "ios",
+                      "ipad",
+                      "iphone",
+                      "irc",
+                      "irccloud",
+                      "mobile-app"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:03:31.399Z"
                 },
@@ -279,12 +455,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Standalone IRCCloud desktop client for OS X",
+                    "homepage": null,
                     "id": 1177781,
                     "language": "Objective-C",
+                    "license": "MIT",
                     "last_commit": "2016-12-17T13:10:04Z",
+                    "open_issues": 5,
                     "owner": "jnordberg",
                     "repo": "irccloudapp",
-                    "stars": 152
+                    "stars": 152,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:03:31.399Z"
                 }
@@ -304,12 +485,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client",
+                "homepage": "https://thelounge.chat",
                 "id": 51344082,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T20:33:00Z",
+                "open_issues": 316,
                 "owner": "thelounge",
                 "repo": "thelounge",
-                "stars": 6317
+                "stars": 6317,
+                "topics": [
+                  "chat",
+                  "irc",
+                  "irc-client",
+                  "ircv3",
+                  "javascript",
+                  "nodejs",
+                  "thelounge",
+                  "vuejs",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T13:03:31.399Z"
             },
@@ -320,12 +516,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The extensible chat client.",
+                "homepage": "https://weechat.org",
                 "id": 17359210,
                 "language": "C",
-                "last_commit": "2026-08-28T12:42:47Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-28T16:54:08Z",
+                "open_issues": 439,
                 "owner": "weechat",
                 "repo": "weechat",
-                "stars": 3372
+                "stars": 3372,
+                "topics": [
+                  "c",
+                  "chat",
+                  "client",
+                  "extensible",
+                  "irc",
+                  "javascript",
+                  "lua",
+                  "perl",
+                  "php",
+                  "python",
+                  "ruby",
+                  "scheme",
+                  "scripting",
+                  "tcl"
+                ]
               },
               "first_seen": "2026-08-28T13:03:31.399Z"
             },
@@ -336,12 +552,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repository for the ZNC IRC bouncer",
+                "homepage": "https://znc.in/",
                 "id": 465681,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T19:32:25Z",
+                "open_issues": 390,
                 "owner": "znc",
                 "repo": "znc",
-                "stars": 2122
+                "stars": 2122,
+                "topics": [
+                  "hacktoberfest",
+                  "irc",
+                  "irc-bouncer",
+                  "znc"
+                ]
               },
               "first_seen": "2026-08-28T13:03:31.399Z"
             },
@@ -352,12 +578,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Convos :busts_in_silhouette: is the simplest way to use IRC in your browser",
+                "homepage": "http://convos.chat",
                 "id": 14822868,
                 "language": "Go",
-                "last_commit": "2026-08-28T11:12:27Z",
+                "license": "Artistic-2.0",
+                "last_commit": "2026-08-29T01:01:05Z",
+                "open_issues": 57,
                 "owner": "convos-chat",
                 "repo": "convos",
-                "stars": 1191
+                "stars": 1191,
+                "topics": [
+                  "chat",
+                  "irc",
+                  "irc-client",
+                  "mojolicious",
+                  "perl",
+                  "web-app"
+                ]
               },
               "first_seen": "2026-08-28T13:03:31.399Z"
             },
@@ -368,12 +606,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "sms webhook server with an IRC bot with SASL-plain",
+                "homepage": null,
                 "id": 702303550,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-02-10T01:15:32Z",
+                "open_issues": 0,
                 "owner": "terminaldweller",
                 "repo": "sms-webhook",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "docker",
+                  "docker-compose",
+                  "irc",
+                  "irc-bot",
+                  "sasl",
+                  "sms"
+                ]
               },
               "first_seen": "2026-08-28T13:03:31.399Z"
             }
@@ -395,12 +645,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern IRC server (daemon/ircd) written in Go.",
+            "homepage": "https://ergo.chat/",
             "id": 55980660,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-27T03:08:26Z",
+            "open_issues": 202,
             "owner": "ergochat",
             "repo": "ergo",
-            "stars": 3311
+            "stars": 3311,
+            "topics": [
+              "daemon",
+              "irc",
+              "irc-daemon",
+              "irc-server",
+              "ircd",
+              "ircv3",
+              "ircv3-support",
+              "sasl",
+              "server"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -411,12 +676,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A high-performance Internet Relay Chat (IRCv3) server for UNIX-like and Windows systems",
+            "homepage": "https://www.inspircd.org",
             "id": 3786218,
             "language": "C++",
+            "license": null,
             "last_commit": "2026-08-27T12:21:25Z",
+            "open_issues": 112,
             "owner": "inspircd",
             "repo": "inspircd",
-            "stars": 1341
+            "stars": 1341,
+            "topics": [
+              "c-plus-plus",
+              "inspircd",
+              "internet-relay-chat",
+              "irc",
+              "irc-protocol",
+              "irc-server",
+              "ircd",
+              "ircv3"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -427,12 +706,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free, portable and lightweight Internet Relay Chat server",
+            "homepage": "http://ngircd.barton.de/",
             "id": 3093688,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-07-12T16:22:30Z",
+            "open_issues": 31,
             "owner": "ngircd",
             "repo": "ngircd",
-            "stars": 574
+            "stars": 574,
+            "topics": [
+              "bsd",
+              "c",
+              "chat",
+              "daemon",
+              "internet-relay-chat",
+              "irc",
+              "ircd",
+              "linux",
+              "macos",
+              "ngircd",
+              "server",
+              "unix"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -443,12 +740,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Node ircd (IRC daemon)",
+            "homepage": null,
             "id": 1030490,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2021-05-31T04:11:36Z",
+            "open_issues": 12,
             "owner": "alexyoung",
             "repo": "ircd.js",
-            "stars": 531
+            "stars": 531,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -459,12 +761,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official UnrealIRCd repository. Downloads are available from our site",
+            "homepage": "https://www.unrealircd.org",
             "id": 22337925,
             "language": "C",
-            "last_commit": "2026-08-17T13:49:46Z",
+            "license": "GPL-2.0",
+            "last_commit": "2026-08-28T16:29:43Z",
+            "open_issues": 4,
             "owner": "unrealircd",
             "repo": "unrealircd",
-            "stars": 522
+            "stars": 522,
+            "topics": [
+              "c",
+              "irc",
+              "irc-server",
+              "ircd",
+              "ircv3",
+              "sasl",
+              "unrealircd"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -475,12 +790,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A very simple Internet Relay Chat (IRC) server",
+            "homepage": null,
             "id": 2278633,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2025-02-12T20:04:18Z",
+            "open_issues": 5,
             "owner": "jrosdahl",
             "repo": "miniircd",
-            "stars": 451
+            "stars": 451,
+            "topics": [
+              "daemon",
+              "irc",
+              "miniircd"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -491,12 +815,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RobustIRC - an IRC network without netsplits, implemented in Go using the Raft consensus algorithm",
+            "homepage": "https://robustirc.net/",
             "id": 29060224,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-05-24T16:29:37Z",
+            "open_issues": 6,
             "owner": "robustirc",
             "repo": "robustirc",
-            "stars": 195
+            "stars": 195,
+            "topics": [
+              "go",
+              "golang",
+              "irc",
+              "raft",
+              "raft-consensus-algorithm"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         }
@@ -513,12 +848,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Atheme IRC Services",
+            "homepage": "https://atheme.github.io/atheme.html",
             "id": 2111095,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-18T06:48:44Z",
+            "open_issues": 151,
             "owner": "atheme",
             "repo": "atheme",
-            "stars": 428
+            "stars": 428,
+            "topics": [
+              "atheme",
+              "c",
+              "development",
+              "irc",
+              "irc-networks",
+              "irc-services"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -529,12 +876,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anope IRC Services",
+            "homepage": "https://www.anope.org",
             "id": 909217,
             "language": "C++",
+            "license": null,
             "last_commit": "2026-08-25T15:36:35Z",
+            "open_issues": 50,
             "owner": "anope",
             "repo": "anope",
-            "stars": 363
+            "stars": 363,
+            "topics": [
+              "anope",
+              "irc",
+              "irc-services"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         }
@@ -551,12 +907,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegraph, and file systems.",
+            "homepage": "https://docs.wabarc.eu.org",
             "id": 271984275,
             "language": "Go",
-            "last_commit": "2026-08-26T22:06:53Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-28T14:13:40Z",
+            "open_issues": 59,
             "owner": "wabarc",
             "repo": "wayback",
-            "stars": 2228
+            "stars": 2228,
+            "topics": [
+              "archive",
+              "har",
+              "heroku",
+              "internet-archive",
+              "ipfs",
+              "irc",
+              "mastodon",
+              "matrix",
+              "memento",
+              "nostr",
+              "notion",
+              "save-the-internet",
+              "screenshot",
+              "self-hosted",
+              "snapshot",
+              "snapshot-webpage",
+              "telegram",
+              "telegraph",
+              "twitter",
+              "wayback-machine"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -567,12 +949,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":robot::speech_balloon: An easy-to-use and highly extensible IRC Bot framework. Formerly Willie.",
+            "homepage": "https://sopel.chat",
             "id": 3035586,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-18T19:37:29Z",
+            "open_issues": 168,
             "owner": "sopel-irc",
             "repo": "sopel",
-            "stars": 981
+            "stars": 981,
+            "topics": [
+              "hacktoberfest",
+              "irc",
+              "irc-bot",
+              "irc-bot-framework",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -583,12 +976,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A robust, full-featured, and user/programmer-friendly Python IRC bot, with many existing plugins.",
+            "homepage": "https://docs.limnoria.net/",
             "id": 1663788,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-23T16:38:34Z",
+            "open_issues": 254,
             "owner": "progval",
             "repo": "Limnoria",
-            "stars": 671
+            "stars": 671,
+            "topics": [
+              "gpg",
+              "i18n",
+              "irc",
+              "irc-bot",
+              "ircv3",
+              "limnoria",
+              "python",
+              "rss",
+              "sasl",
+              "supybot",
+              "tls"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -599,12 +1009,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Eggdrop IRC Bot",
+            "homepage": null,
             "id": 44209137,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-02T09:40:13Z",
+            "open_issues": 251,
             "owner": "eggheads",
             "repo": "eggdrop",
-            "stars": 579
+            "stars": 579,
+            "topics": [
+              "bot",
+              "c",
+              "eggdrop",
+              "hacktoberfest",
+              "irc",
+              "python",
+              "tcl"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -615,12 +1038,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Twitch IRC bot that takes input from the chat and presses the corresponding key.",
+            "homepage": null,
             "id": 16897667,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2014-02-22T22:47:42Z",
+            "open_issues": 4,
             "owner": "aidanrwt",
             "repo": "twitch-plays",
-            "stars": 276
+            "stars": 276,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -631,12 +1059,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python IRC bot",
+            "homepage": "https://github.com/rmmh/skybot/wiki",
             "id": 855503,
             "language": "Python",
+            "license": "Unlicense",
             "last_commit": "2026-07-17T13:55:39Z",
+            "open_issues": 15,
             "owner": "rmmh",
             "repo": "skybot",
-            "stars": 248
+            "stars": 248,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -647,12 +1080,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IRC C++ eval bot",
+            "homepage": "http://www.eelis.net/geordi/",
             "id": 556657,
             "language": "Haskell",
+            "license": "NOASSERTION",
             "last_commit": "2022-10-05T22:16:35Z",
+            "open_issues": 2,
             "owner": "Eelis",
             "repo": "geordi",
-            "stars": 182
+            "stars": 182,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -663,12 +1101,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CloudBot - The simple, fast, expandable, open-source Python IRC Bot!",
+            "homepage": null,
             "id": 216284647,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T05:48:10Z",
+            "open_issues": 24,
             "owner": "TotallyNotRobots",
             "repo": "CloudBot",
-            "stars": 182
+            "stars": 182,
+            "topics": [
+              "bot",
+              "framework",
+              "irc",
+              "irc-bot",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -679,12 +1128,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An IRC bot written in Clojure.",
+            "homepage": "lazybot.org",
             "id": 580134,
             "language": "Clojure",
+            "license": null,
             "last_commit": "2015-06-17T15:51:06Z",
+            "open_issues": 16,
             "owner": "Raynes",
             "repo": "lazybot",
-            "stars": 153
+            "stars": 153,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -695,12 +1149,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "https://bitbot.dev | Python3 event-driven modular IRCv3 bot 🤖",
+            "homepage": null,
             "id": 54971153,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2025-01-10T04:48:23Z",
+            "open_issues": 94,
             "owner": "bitbot-irc",
             "repo": "bitbot",
-            "stars": 149
+            "stars": 149,
+            "topics": [
+              "irc",
+              "irc-bot",
+              "ircv3",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -711,12 +1175,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python IRC bot, designed to make adding functionality quick and simple. (est. 2013)",
+            "homepage": null,
             "id": 8061014,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T04:05:58Z",
+            "open_issues": 19,
             "owner": "johnmaguire",
             "repo": "Cardinal",
-            "stars": 104
+            "stars": 104,
+            "topics": [
+              "irc",
+              "irc-bot",
+              "python",
+              "twisted"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -727,12 +1201,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🛩 A python IRC bot with simple plugins dev. Ignited in mauritius, first-timers friendly! ",
+            "homepage": "https://pyhoneybot.github.io/honeybot-store/",
             "id": 190201354,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-06T02:32:38Z",
+            "open_issues": 10,
             "owner": "pyhoneybot",
             "repo": "honeybot",
-            "stars": 81
+            "stars": 81,
+            "topics": [
+              "bot",
+              "client",
+              "hacktoberfest",
+              "irc",
+              "irc-bot",
+              "mauritius",
+              "plugin",
+              "python",
+              "tkinter"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -743,12 +1232,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "One chat bot to rule them all",
+            "homepage": "http://helga.readthedocs.org",
             "id": 8221606,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-02T04:02:32Z",
+            "open_issues": 56,
             "owner": "shaunduncan",
             "repo": "helga",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -759,12 +1253,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An IRC bot with a bunch of features.",
+            "homepage": null,
             "id": 28700798,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2025-03-12T16:38:21Z",
+            "open_issues": 11,
             "owner": "woodruffw",
             "repo": "yossarian-bot",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "bot",
+              "irc-bot",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -775,12 +1278,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "terminaldweller's IRC bot",
+            "homepage": null,
             "id": 749105941,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-22T11:32:31Z",
+            "open_issues": 3,
             "owner": "terminaldweller",
             "repo": "milla",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "bot",
+              "chatbot",
+              "chatgpt",
+              "gemini-pro",
+              "irc",
+              "irc-bot",
+              "lua",
+              "ollama",
+              "openrouter",
+              "rss",
+              "sasl",
+              "syntax-highlighting"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -791,12 +1312,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "---EVE: A Project for a Top-Tier IRC Bot--- Eve was originally designed on an entirely different framework and language and has grown through the years. Now Eve is on Ruby and the Cinch IRC Framework. If you need help you can join #Eve on irc.sinsira.net",
+            "homepage": "https://inspyre.tech",
             "id": 14671095,
             "language": "Ruby",
+            "license": "GPL-2.0",
             "last_commit": "2019-11-14T21:47:32Z",
+            "open_issues": 18,
             "owner": "Inspyre-Technologies",
             "repo": "EveIRC",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "eve",
+              "irc",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         }
@@ -813,12 +1343,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LibOTR functionality in Irssi.",
+            "homepage": null,
             "id": 2091362,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2017-09-01T17:52:24Z",
+            "open_issues": 27,
             "owner": "cryptodotis",
             "repo": "irssi-otr",
-            "stars": 185
+            "stars": 185,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -829,12 +1364,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WeeChat script for Off-the-Record messaging",
+            "homepage": null,
             "id": 1120248,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-03-27T04:15:45Z",
+            "open_issues": 19,
             "owner": "mmb",
             "repo": "weechat-otr",
-            "stars": 135
+            "stars": 135,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -845,12 +1385,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FiSH is an encryption add-on module for irssi.",
+            "homepage": null,
             "id": 3093744,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-02-18T00:24:03Z",
+            "open_issues": 3,
             "owner": "falsovsky",
             "repo": "FiSH-irssi",
-            "stars": 129
+            "stars": 129,
+            "topics": [
+              "blowfish",
+              "fish",
+              "irssi"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         }
@@ -867,12 +1416,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Event-based stateful IRC client framework for Go.",
+            "homepage": "https://github.com/fluffle/goirc",
             "id": 440945,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-03T06:57:30Z",
+            "open_issues": 4,
             "owner": "fluffle",
             "repo": "goirc",
-            "stars": 516
+            "stars": 516,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -883,12 +1437,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Event based IRC client library in Go (golang)",
+            "homepage": null,
             "id": 377209,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-03-07T03:22:24Z",
+            "open_issues": 14,
             "owner": "thoj",
             "repo": "go-ircevent",
-            "stars": 498
+            "stars": 498,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -899,12 +1458,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IRC adapter for Hubot",
+            "homepage": null,
             "id": 2859856,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2021-11-24T19:28:58Z",
+            "open_issues": 14,
             "owner": "nandub",
             "repo": "hubot-irc",
-            "stars": 299
+            "stars": 299,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -915,12 +1479,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern Java IRC Library",
+            "homepage": "http://pircbotx.github.io/pircbotx/latest/apidocs/",
             "id": 34429934,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-06-12T12:22:48Z",
+            "open_issues": 20,
             "owner": "pircbotx",
             "repo": "pircbotx",
-            "stars": 229
+            "stars": 229,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -931,12 +1500,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node.js IRC client library",
+            "homepage": null,
             "id": 13684128,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-30T15:52:59Z",
+            "open_issues": 6,
             "owner": "slate",
             "repo": "slate-irc",
-            "stars": 209
+            "stars": 209,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -947,12 +1521,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "NodeJS IRC client library",
+            "homepage": null,
             "id": 89947641,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2021-04-24T16:17:01Z",
+            "open_issues": 6,
             "owner": "Throne3d",
             "repo": "node-irc",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "irc",
+              "library",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -963,12 +1546,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Raku module for building IRC (Internet Relay Chat) clients",
+            "homepage": "https://raku.land/zef:lizmat/IRC::Client",
             "id": 46501598,
             "language": "Raku",
+            "license": "Artistic-2.0",
             "last_commit": "2026-02-02T23:51:26Z",
+            "open_issues": 31,
             "owner": "lizmat",
             "repo": "IRC-Client",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "raku"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -981,12 +1571,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)",
+                "homepage": null,
                 "id": 44820350,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2024-12-12T00:20:34Z",
+                "open_issues": 342,
                 "owner": "42wim",
                 "repo": "matterbridge",
-                "stars": 7554
+                "stars": 7554,
+                "topics": [
+                  "bridge",
+                  "counter-strike",
+                  "discord",
+                  "facebook-messenger",
+                  "gitter",
+                  "irc",
+                  "matrix",
+                  "mattermost",
+                  "microsoft-teams",
+                  "minecraft-chat",
+                  "mumble",
+                  "nextcloud",
+                  "rocketchat",
+                  "slack",
+                  "telegram",
+                  "twitch",
+                  "vk",
+                  "whatsapp",
+                  "xmpp",
+                  "zulip"
+                ]
               },
               "first_seen": "2026-08-28T13:03:31.399Z"
             },
@@ -997,12 +1613,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Connects Discord and IRC channels by sending messages back and forth.",
+                "homepage": null,
                 "id": 44140591,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-11-25T09:52:53Z",
+                "open_issues": 75,
                 "owner": "reactiflux",
                 "repo": "discord-irc",
-                "stars": 1226
+                "stars": 1226,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:03:31.399Z"
             },
@@ -1013,12 +1634,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Connects Slack and IRC channels by sending messages back and forth.",
+                "homepage": null,
                 "id": 30365240,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-10-12T02:14:35Z",
+                "open_issues": 29,
                 "owner": "ekmartin",
                 "repo": "slack-irc",
-                "stars": 589
+                "stars": 589,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:03:31.399Z"
             },
@@ -1029,12 +1655,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node.js IRC bridge for Matrix",
+                "homepage": null,
                 "id": 31962644,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-02T15:31:38Z",
+                "open_issues": 506,
                 "owner": "matrix-org",
                 "repo": "matrix-appservice-irc",
-                "stars": 505
+                "stars": 505,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:03:31.399Z"
             },
@@ -1045,12 +1676,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a bouncer-style Matrix IRC bridge",
+                "homepage": null,
                 "id": 356770814,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-04T11:13:47Z",
+                "open_issues": 88,
                 "owner": "hifi",
                 "repo": "heisenbridge",
-                "stars": 309
+                "stars": 309,
+                "topics": [
+                  "appservice",
+                  "bouncer",
+                  "bridge",
+                  "irc",
+                  "matrix",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T13:03:31.399Z"
             },
@@ -1061,12 +1704,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Connect to your mattermost or slack using your IRC-client of choice.",
+                "homepage": null,
                 "id": 45397023,
                 "language": "Go",
-                "last_commit": "2026-08-28T10:43:08Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T01:55:26Z",
+                "open_issues": 6,
                 "owner": "42wim",
                 "repo": "matterircd",
-                "stars": 307
+                "stars": 307,
+                "topics": [
+                  "irc",
+                  "irc-server",
+                  "ircd",
+                  "mattermost",
+                  "slack",
+                  "tls-support"
+                ]
               },
               "first_seen": "2026-08-28T13:03:31.399Z"
             },
@@ -1077,12 +1732,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IRC-to-Slack gateway",
+                "homepage": null,
                 "id": 127798941,
                 "language": "Go",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-24T15:16:25Z",
+                "open_issues": 24,
                 "owner": "insomniacslk",
                 "repo": "irc-slack",
-                "stars": 206
+                "stars": 206,
+                "topics": [
+                  "gateway",
+                  "irc",
+                  "irc-client",
+                  "irc-slack",
+                  "irssi",
+                  "slack",
+                  "slack-team",
+                  "weechat"
+                ]
               },
               "first_seen": "2026-08-28T13:03:31.399Z"
             },
@@ -1093,12 +1762,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go implementation of a Telegram <=> IRC bridge for use with any IRC channel and Telegram group",
+                "homepage": "https://docs.teleirc.com/",
                 "id": 57975534,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-11T17:03:56Z",
+                "open_issues": 39,
                 "owner": "RITlug",
                 "repo": "teleirc",
-                "stars": 159
+                "stars": 159,
+                "topics": [
+                  "bridge",
+                  "go",
+                  "golang",
+                  "hacktoberfest",
+                  "irc",
+                  "irc-bot",
+                  "irc-channel",
+                  "relay-messages",
+                  "rit",
+                  "rochester",
+                  "rochester-institute-of-technology",
+                  "telegram-api",
+                  "telegram-bot",
+                  "telegram-chat",
+                  "telegram-group",
+                  "teleirc"
+                ]
               },
               "first_seen": "2026-08-28T13:03:31.399Z"
             },
@@ -1109,12 +1800,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern Discord <-> IRC bridge",
+                "homepage": null,
                 "id": 152363057,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2026-05-10T20:42:37Z",
+                "open_issues": 21,
                 "owner": "zachbr",
                 "repo": "Dis4IRC",
-                "stars": 117
+                "stars": 117,
+                "topics": [
+                  "bridge",
+                  "configurate",
+                  "discord",
+                  "irc",
+                  "java-discord-api",
+                  "jda",
+                  "kittehircclientlib",
+                  "kotlin"
+                ]
               },
               "first_seen": "2026-08-28T13:03:31.399Z"
             },
@@ -1125,12 +1830,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tox to IRC bridge with support for multiple channels",
+                "homepage": null,
                 "id": 109031778,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-02-17T05:55:07Z",
+                "open_issues": 2,
                 "owner": "e0ff",
                 "repo": "toxirc",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "bot",
+                  "c",
+                  "irc",
+                  "irc-bridge",
+                  "tox"
+                ]
               },
               "first_seen": "2026-08-28T13:03:31.399Z"
             },
@@ -1141,12 +1857,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Discord <-> IRC Bridge",
+                "homepage": null,
                 "id": 522718422,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-04T11:02:28Z",
+                "open_issues": 8,
                 "owner": "OpenTTD",
                 "repo": "dibridge",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:03:31.399Z"
             },
@@ -1157,12 +1878,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Relay bot between IRC and Skype, using the Skype Web API.",
+                "homepage": "https://xkcd.com/1782/",
                 "id": 65156914,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-03-04T12:33:34Z",
+                "open_issues": 6,
                 "owner": "progval",
                 "repo": "skyweb2irc",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "bot",
+                  "irc",
+                  "irc-bot",
+                  "nodejs",
+                  "relay-bot",
+                  "skype",
+                  "skyweb"
+                ]
               },
               "first_seen": "2026-08-28T13:03:31.399Z"
             }
@@ -1184,12 +1918,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A useful overview and reference to the IRC client protocol as it is implemented today.",
+            "homepage": "http://modern.ircdocs.horse/",
             "id": 48411978,
             "language": "Sass",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-22T20:12:31Z",
+            "open_issues": 47,
             "owner": "ircdocs",
             "repo": "modern-irc",
-            "stars": 230
+            "stars": 230,
+            "topics": [
+              "ctcp",
+              "irc",
+              "irc-protocol"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -1200,12 +1943,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IRCv3 website",
+            "homepage": "https://ircv3.net",
             "id": 34589079,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-07T19:20:44Z",
+            "open_issues": 14,
             "owner": "ircv3",
             "repo": "ircv3.github.io",
-            "stars": 102
+            "stars": 102,
+            "topics": [
+              "irc",
+              "irc-protocol",
+              "ircv3",
+              "jekyll",
+              "specifications",
+              "website",
+              "working-group"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -1216,12 +1972,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "More up-to-date IRC Definition Lists",
+            "homepage": "http://defs.ircdocs.horse/",
             "id": 46921306,
             "language": "HTML",
+            "license": "CC0-1.0",
             "last_commit": "2025-03-14T19:26:04Z",
+            "open_issues": 15,
             "owner": "ircdocs",
             "repo": "irc-defs",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "irc",
+              "irc-protocol"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -1232,12 +1996,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collected IRC protocol documentation",
+            "homepage": "https://git.nullroute.lt/irc/irc-docs.git/",
             "id": 5115231,
             "language": "HTML",
+            "license": null,
             "last_commit": "2022-07-18T17:14:23Z",
+            "open_issues": 0,
             "owner": "grawity",
             "repo": "irc-docs",
-            "stars": 63
+            "stars": 63,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -1248,12 +2017,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tests for IRC Parsers",
+            "homepage": null,
             "id": 37838584,
             "language": "Go",
+            "license": "CC0-1.0",
             "last_commit": "2023-05-29T12:56:18Z",
+            "open_issues": 13,
             "owner": "ircdocs",
             "repo": "parser-tests",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "irc",
+              "irc-protocol"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -1264,12 +2041,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IRC Statistics",
+            "homepage": "http://stats.ircdocs.horse/",
             "id": 52639958,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2022-07-21T22:04:02Z",
+            "open_issues": 16,
             "owner": "ircdocs",
             "repo": "irc-stats",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "irc",
+              "irc-protocol",
+              "irc-statistics",
+              "statistics"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         }
@@ -1286,12 +2073,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "superseriousstats is a fast and efficient program to create statistics out of IRC chat logs",
+            "homepage": null,
             "id": 804161,
             "language": "PHP",
+            "license": "ISC",
             "last_commit": "2026-08-02T18:26:48Z",
+            "open_issues": 0,
             "owner": "tommyrot",
             "repo": "superseriousstats",
-            "stars": 104
+            "stars": 104,
+            "topics": [
+              "chat",
+              "irc",
+              "logging",
+              "php",
+              "self-hosted",
+              "sqlite",
+              "statistics",
+              "stats",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -1302,12 +2104,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a highly versatile, award-winning image to IRC/ANSI art tool",
+            "homepage": null,
             "id": 621158533,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-13T20:40:53Z",
+            "open_issues": 1,
             "owner": "waveplate",
             "repo": "img2irc",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "ansi",
+              "generator",
+              "image",
+              "irc"
+            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         }
@@ -1316,15 +2128,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:03:31.399Z",
+    "last_updated": "2026-08-29T04:31:10.492Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome IRC resources.",
+      "homepage": null,
       "id": 49790204,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-11T19:26:52Z",
+      "open_issues": 2,
       "owner": "davisonio",
       "repo": "awesome-irc",
-      "stars": 1328
+      "stars": 1328,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "irc"
+      ]
     },
     "original_repository_sha": "bc4059b7c065aae9c4c6d8a08d65d0a478402e96",
     "enhanced_repository": "enhansome/enhansome-irc",
