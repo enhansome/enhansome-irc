@@ -49,7 +49,7 @@
             "open_issues": 26,
             "owner": "Codeux-Software",
             "repo": "Textual",
-            "stars": 1908,
+            "stars": 1907,
             "topics": []
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
@@ -298,7 +298,7 @@
             "id": 393831500,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-02T18:48:43Z",
+            "last_commit": "2026-09-05T02:01:49Z",
             "open_issues": 0,
             "owner": "nutjob-laboratories",
             "repo": "merk",
@@ -435,7 +435,7 @@
                     "open_issues": 24,
                     "owner": "irccloud",
                     "repo": "ios",
-                    "stars": 300,
+                    "stars": 301,
                     "topics": [
                       "chat",
                       "ios",
@@ -494,7 +494,7 @@
                 "open_issues": 317,
                 "owner": "thelounge",
                 "repo": "thelounge",
-                "stars": 6321,
+                "stars": 6322,
                 "topics": [
                   "chat",
                   "irc",
@@ -521,8 +521,8 @@
                 "id": 17359210,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-02T20:40:38Z",
-                "open_issues": 441,
+                "last_commit": "2026-09-04T18:47:36Z",
+                "open_issues": 439,
                 "owner": "weechat",
                 "repo": "weechat",
                 "stars": 3374,
@@ -587,7 +587,7 @@
                 "open_issues": 61,
                 "owner": "convos-chat",
                 "repo": "convos",
-                "stars": 1191,
+                "stars": 1192,
                 "topics": [
                   "chat",
                   "irc",
@@ -654,7 +654,7 @@
             "open_issues": 202,
             "owner": "ergochat",
             "repo": "ergo",
-            "stars": 3315,
+            "stars": 3317,
             "topics": [
               "daemon",
               "irc",
@@ -681,11 +681,11 @@
             "id": 3786218,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-09-04T00:59:44Z",
+            "last_commit": "2026-09-04T10:21:38Z",
             "open_issues": 112,
             "owner": "inspircd",
             "repo": "inspircd",
-            "stars": 1344,
+            "stars": 1345,
             "topics": [
               "c-plus-plus",
               "inspircd",
@@ -912,8 +912,8 @@
             "id": 271984275,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-03T22:16:09Z",
-            "open_issues": 63,
+            "last_commit": "2026-09-04T18:38:40Z",
+            "open_issues": 62,
             "owner": "wabarc",
             "repo": "wayback",
             "stars": 2229,
@@ -1580,7 +1580,7 @@
                 "open_issues": 338,
                 "owner": "42wim",
                 "repo": "matterbridge",
-                "stars": 7558,
+                "stars": 7560,
                 "topics": [
                   "bridge",
                   "counter-strike",
@@ -1664,7 +1664,7 @@
                 "open_issues": 506,
                 "owner": "matrix-org",
                 "repo": "matrix-appservice-irc",
-                "stars": 506,
+                "stars": 507,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:03:31.399Z"
@@ -1709,7 +1709,7 @@
                 "id": 45397023,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-03T09:57:20Z",
+                "last_commit": "2026-09-05T02:11:35Z",
                 "open_issues": 5,
                 "owner": "42wim",
                 "repo": "matterircd",
@@ -2128,7 +2128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T06:09:36.269Z",
+    "last_updated": "2026-09-05T05:58:04.455Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome IRC resources.",
