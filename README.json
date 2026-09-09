@@ -19,7 +19,7 @@
             "open_issues": 768,
             "owner": "hexchat",
             "repo": "hexchat",
-            "stars": 3229,
+            "stars": 3228,
             "topics": [
               "c",
               "gtk",
@@ -91,7 +91,7 @@
             "open_issues": 194,
             "owner": "kiwiirc",
             "repo": "kiwiirc",
-            "stars": 985,
+            "stars": 988,
             "topics": [
               "chat",
               "client",
@@ -119,7 +119,7 @@
             "open_issues": 24,
             "owner": "quassel",
             "repo": "quassel",
-            "stars": 794,
+            "stars": 793,
             "topics": [
               "bouncer",
               "irc",
@@ -171,7 +171,7 @@
             "open_issues": 87,
             "owner": "emacs-circe",
             "repo": "circe",
-            "stars": 445,
+            "stars": 444,
             "topics": []
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
@@ -340,7 +340,7 @@
             "id": 42721854,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-09-06T02:10:36Z",
+            "last_commit": "2026-09-09T03:45:55Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "konversation",
@@ -494,7 +494,7 @@
                 "open_issues": 314,
                 "owner": "thelounge",
                 "repo": "thelounge",
-                "stars": 6324,
+                "stars": 6327,
                 "topics": [
                   "chat",
                   "irc",
@@ -561,7 +561,7 @@
                 "open_issues": 390,
                 "owner": "znc",
                 "repo": "znc",
-                "stars": 2123,
+                "stars": 2124,
                 "topics": [
                   "hacktoberfest",
                   "irc",
@@ -583,7 +583,7 @@
                 "id": 14822868,
                 "language": "Go",
                 "license": "Artistic-2.0",
-                "last_commit": "2026-09-07T22:09:17Z",
+                "last_commit": "2026-09-08T19:12:06Z",
                 "open_issues": 61,
                 "owner": "convos-chat",
                 "repo": "convos",
@@ -654,7 +654,7 @@
             "open_issues": 202,
             "owner": "ergochat",
             "repo": "ergo",
-            "stars": 3324,
+            "stars": 3325,
             "topics": [
               "daemon",
               "irc",
@@ -1106,8 +1106,8 @@
             "id": 216284647,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-07T18:40:36Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-09T02:26:07Z",
+            "open_issues": 22,
             "owner": "TotallyNotRobots",
             "repo": "CloudBot",
             "stars": 182,
@@ -1577,10 +1577,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2024-12-12T00:20:34Z",
-                "open_issues": 338,
+                "open_issues": 337,
                 "owner": "42wim",
                 "repo": "matterbridge",
-                "stars": 7561,
+                "stars": 7563,
                 "topics": [
                   "bridge",
                   "counter-strike",
@@ -1949,7 +1949,7 @@
             "language": "HTML",
             "license": "NOASSERTION",
             "last_commit": "2026-08-07T19:20:44Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "ircv3",
             "repo": "ircv3.github.io",
             "stars": 102,
@@ -2128,7 +2128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T06:07:32.080Z",
+    "last_updated": "2026-09-09T06:12:10.907Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome IRC resources.",
