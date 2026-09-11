@@ -19,7 +19,7 @@
             "open_issues": 768,
             "owner": "hexchat",
             "repo": "hexchat",
-            "stars": 3228,
+            "stars": 3227,
             "topics": [
               "c",
               "gtk",
@@ -213,7 +213,7 @@
             "open_issues": 213,
             "owner": "kvirc",
             "repo": "KVIrc",
-            "stars": 303,
+            "stars": 304,
             "topics": [
               "irc",
               "irc-client",
@@ -340,7 +340,7 @@
             "id": 42721854,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-09-09T03:45:55Z",
+            "last_commit": "2026-09-10T10:22:06Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "konversation",
@@ -490,11 +490,11 @@
                 "id": 51344082,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-09T16:18:48Z",
-                "open_issues": 314,
+                "last_commit": "2026-09-10T23:43:12Z",
+                "open_issues": 315,
                 "owner": "thelounge",
                 "repo": "thelounge",
-                "stars": 6327,
+                "stars": 6325,
                 "topics": [
                   "chat",
                   "irc",
@@ -521,11 +521,11 @@
                 "id": 17359210,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-06T10:10:10Z",
+                "last_commit": "2026-09-10T19:51:44Z",
                 "open_issues": 440,
                 "owner": "weechat",
                 "repo": "weechat",
-                "stars": 3383,
+                "stars": 3382,
                 "topics": [
                   "c",
                   "chat",
@@ -561,7 +561,7 @@
                 "open_issues": 390,
                 "owner": "znc",
                 "repo": "znc",
-                "stars": 2125,
+                "stars": 2124,
                 "topics": [
                   "hacktoberfest",
                   "irc",
@@ -583,7 +583,7 @@
                 "id": 14822868,
                 "language": "Go",
                 "license": "Artistic-2.0",
-                "last_commit": "2026-09-09T22:32:35Z",
+                "last_commit": "2026-09-10T18:33:53Z",
                 "open_issues": 61,
                 "owner": "convos-chat",
                 "repo": "convos",
@@ -654,7 +654,7 @@
             "open_issues": 202,
             "owner": "ergochat",
             "repo": "ergo",
-            "stars": 3325,
+            "stars": 3326,
             "topics": [
               "daemon",
               "irc",
@@ -685,7 +685,7 @@
             "open_issues": 112,
             "owner": "inspircd",
             "repo": "inspircd",
-            "stars": 1346,
+            "stars": 1348,
             "topics": [
               "c-plus-plus",
               "inspircd",
@@ -715,7 +715,7 @@
             "open_issues": 32,
             "owner": "ngircd",
             "repo": "ngircd",
-            "stars": 576,
+            "stars": 577,
             "topics": [
               "bsd",
               "c",
@@ -885,7 +885,7 @@
             "open_issues": 47,
             "owner": "anope",
             "repo": "anope",
-            "stars": 364,
+            "stars": 365,
             "topics": [
               "anope",
               "irc",
@@ -916,7 +916,7 @@
             "open_issues": 63,
             "owner": "wabarc",
             "repo": "wayback",
-            "stars": 2229,
+            "stars": 2231,
             "topics": [
               "archive",
               "har",
@@ -1106,7 +1106,7 @@
             "id": 216284647,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-09T09:48:55Z",
+            "last_commit": "2026-09-11T00:16:29Z",
             "open_issues": 23,
             "owner": "TotallyNotRobots",
             "repo": "CloudBot",
@@ -1505,8 +1505,8 @@
             "id": 13684128,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-07-30T15:52:59Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-11T02:07:16Z",
+            "open_issues": 7,
             "owner": "slate",
             "repo": "slate-irc",
             "stars": 209,
@@ -1622,7 +1622,7 @@
                 "open_issues": 75,
                 "owner": "reactiflux",
                 "repo": "discord-irc",
-                "stars": 1225,
+                "stars": 1224,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:03:31.399Z"
@@ -2128,7 +2128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T06:12:08.514Z",
+    "last_updated": "2026-09-11T06:15:30.666Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome IRC resources.",
