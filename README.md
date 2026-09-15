@@ -38,7 +38,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 * [![HexChat-icon](https://user-images.githubusercontent.com/15098724/56874706-b28a8200-69f0-11e9-9ca7-27c8779134e0.png) HexChat](https://hexchat.github.io) - Based on XChat, easy to use, spell check & multiple languages. ([source](https://github.com/hexchat/hexchat) ⚠️ Archived) `Windows` `macOS` `Linux`
 * [![Textual-icon](https://user-images.githubusercontent.com/15098724/56874954-680a0500-69f2-11e9-87ec-d4015ce54af5.png) Textual](https://www.codeux.com/textual/) - Very customizable, ZNC integration, iCloud sync ($4.99). ([source](https://github.com/Codeux-Software/Textual) ⚠️ Archived) `macOS`
 * [![LimeChat-icon](https://user-images.githubusercontent.com/15098724/56875043-04cca280-69f3-11e9-8e1f-285e54784fe4.png) LimeChat](http://limechat.net/mac/) - One window for multiple servers, keyboard shortcuts, fast & stable. ([source](https://github.com/psychs/limechat) ⭐ 1,583 | 🐛 197 | 🌐 Objective-C | 📅 2021-11-22) `macOS` `iOS`
-* [![KiwiIRC-icon](https://user-images.githubusercontent.com/15098724/56875143-a7852100-69f3-11e9-8b33-2035c156c016.png) Kiwi IRC](https://kiwiirc.com) - Powerful modern IRC messenger for the web. ([source](https://github.com/kiwiirc/kiwiirc) ⭐ 989 | 🐛 194 | 🌐 Vue | 📅 2026-06-19, [demo](https://kiwiirc.com/nextclient/)) `Web`
+* [![KiwiIRC-icon](https://user-images.githubusercontent.com/15098724/56875143-a7852100-69f3-11e9-8b33-2035c156c016.png) Kiwi IRC](https://kiwiirc.com) - Powerful modern IRC messenger for the web. ([source](https://github.com/kiwiirc/kiwiirc) ⭐ 990 | 🐛 194 | 🌐 Vue | 📅 2026-06-19, [demo](https://kiwiirc.com/nextclient/)) `Web`
 * [![Quassel-icon](https://user-images.githubusercontent.com/15098724/56875264-84a73c80-69f4-11e9-807c-75db09db0ec5.png) Quassel](https://quassel-irc.org) - Distributed (clients can attach to and detach from a central core that stays permanently online. ([source](https://github.com/quassel/quassel) ⭐ 793 | 🐛 24 | 🌐 C++ | 📅 2026-06-27) `Linux` `macOS` `Windows`
 * [![RevolutionIRC-icon](https://user-images.githubusercontent.com/15098724/56876444-4f065180-69fc-11e9-8200-b244b6a86e94.png) Revolution IRC](https://github.com/MCMrARM/revolution-irc) ⭐ 614 | 🐛 197 | 🌐 Java | 📅 2024-01-01 - Feature-full, actively maintained Android IRC client. `Android`
 * [![Circe-icon](https://user-images.githubusercontent.com/15098724/56875558-a3a6ce00-69f6-11e9-92da-2e4d8c7b4a53.png) Circe](https://github.com/emacs-circe/circe) ⭐ 445 | 🐛 87 | 🌐 Emacs Lisp | 📅 2026-05-25 - For use in Emacs, sane defaults. `Emacs`
@@ -77,10 +77,10 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 ### Self-hosted
 
-* [![TheLounge-icon](https://user-images.githubusercontent.com/15098724/56899491-6b2fe000-6a48-11e9-9f01-1ed2cfb86b09.png) TheLounge](https://thelounge.chat) - Responsive, self-hosted & support for multiple users. ([source](https://github.com/thelounge/thelounge) ⭐ 6,324 | 🐛 312 | 🌐 TypeScript | 📅 2026-09-13, [demo](https://demo.thelounge.chat/)) `JavaScript` `Node.js` `Web`
-* [![WeeChat-icon](https://user-images.githubusercontent.com/15098724/56876389-e028f880-69fb-11e9-82d6-8084e17f2f04.png) WeeChat](https://weechat.org) - A fast, light and extensible chat client. ([source](https://github.com/weechat/weechat) ⭐ 3,385 | 🐛 439 | 🌐 C | 📅 2026-09-13) `Linux` `macOS`
-* [![ZNC-icon](https://user-images.githubusercontent.com/15098724/56879721-d8268400-6a0e-11e9-8b74-c2c748d15c4a.png) ZNC](https://wiki.znc.in/ZNC) - Most popular. many different plugins. ([source](https://github.com/znc/znc) ⭐ 2,124 | 🐛 388 | 🌐 C++ | 📅 2026-09-13) `C++`
-* [![Convos-icon](https://user-images.githubusercontent.com/15098724/56879497-d8724f80-6a0d-11e9-844d-7a5380b4524b.png) Convos](https://convos.chat) - Always online web IRC client. ([source](https://github.com/convos-chat/convos) ⭐ 1,192 | 🐛 61 | 🌐 Go | 📅 2026-09-13) `Perl` `JavaScript` `Web`
+* [![TheLounge-icon](https://user-images.githubusercontent.com/15098724/56899491-6b2fe000-6a48-11e9-9f01-1ed2cfb86b09.png) TheLounge](https://thelounge.chat) - Responsive, self-hosted & support for multiple users. ([source](https://github.com/thelounge/thelounge) ⭐ 6,325 | 🐛 312 | 🌐 TypeScript | 📅 2026-09-14, [demo](https://demo.thelounge.chat/)) `JavaScript` `Node.js` `Web`
+* [![WeeChat-icon](https://user-images.githubusercontent.com/15098724/56876389-e028f880-69fb-11e9-82d6-8084e17f2f04.png) WeeChat](https://weechat.org) - A fast, light and extensible chat client. ([source](https://github.com/weechat/weechat) ⭐ 3,385 | 🐛 439 | 🌐 C | 📅 2026-09-15) `Linux` `macOS`
+* [![ZNC-icon](https://user-images.githubusercontent.com/15098724/56879721-d8268400-6a0e-11e9-8b74-c2c748d15c4a.png) ZNC](https://wiki.znc.in/ZNC) - Most popular. many different plugins. ([source](https://github.com/znc/znc) ⭐ 2,124 | 🐛 386 | 🌐 C++ | 📅 2026-09-13) `C++`
+* [![Convos-icon](https://user-images.githubusercontent.com/15098724/56879497-d8724f80-6a0d-11e9-844d-7a5380b4524b.png) Convos](https://convos.chat) - Always online web IRC client. ([source](https://github.com/convos-chat/convos) ⭐ 1,192 | 🐛 61 | 🌐 Go | 📅 2026-09-14) `Perl` `JavaScript` `Web`
 * [sms-webhook](https://github.com/terminaldweller/sms-webhook) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2026-02-10 - A simple webhook to receive SMS messages on IRC. `Go`
 * [![BIP-icon](https://user-images.githubusercontent.com/15098724/56899123-89491080-6a47-11e9-8513-4c8d09be32d9.png) BIP IRC Proxy](https://packages.debian.org/sid/bip) - Always online, lightweight and secure Open Source IRC proxying with backlogging. ([source](https://salsa.debian.org/debian/bip)) `C`
 * [soju](https://codeberg.org/emersion/soju) - A user-friendly IRC bouncer. `Go`
@@ -90,11 +90,11 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 *Used for running your own IRC server or network.*
 
-* [Ergo](https://ergo.chat/) - Modern server that's portable and designed around specifications (bleeding-edge IRCv3 support). ([source](https://github.com/ergochat/ergo) ⭐ 3,329 | 🐛 202 | 🌐 Go | 📅 2026-09-01)
-* [InspIRCd](https://www.inspircd.org) - Modular, stable, written from scratch. ([source](https://github.com/inspircd/inspircd) ⭐ 1,348 | 🐛 112 | 🌐 C++ | 📅 2026-09-11)
+* [Ergo](https://ergo.chat/) - Modern server that's portable and designed around specifications (bleeding-edge IRCv3 support). ([source](https://github.com/ergochat/ergo) ⭐ 3,331 | 🐛 203 | 🌐 Go | 📅 2026-09-01)
+* [InspIRCd](https://www.inspircd.org) - Modular, stable, written from scratch. ([source](https://github.com/inspircd/inspircd) ⭐ 1,348 | 🐛 113 | 🌐 C++ | 📅 2026-09-15)
 * [ngIRCd](https://ngircd.barton.de) - Portable and lightweight for small or private networks. ([source](https://github.com/ngircd/ngircd) ⭐ 578 | 🐛 33 | 🌐 C | 📅 2026-07-12)
 * [ircd.js](https://github.com/alexyoung/ircd.js) ⭐ 531 | 🐛 12 | 🌐 JavaScript | 📅 2021-05-31 - Server will allow clients to connect, join channels, change topics; basic stuff.
-* [UnrealIRCd](https://www.unrealircd.org) - Modular, advanced IRCd serving thousands of networks since 1999. ([source](https://github.com/unrealircd/unrealircd) ⭐ 520 | 🐛 5 | 🌐 C | 📅 2026-09-12)
+* [UnrealIRCd](https://www.unrealircd.org) - Modular, advanced IRCd serving thousands of networks since 1999. ([source](https://github.com/unrealircd/unrealircd) ⭐ 520 | 🐛 4 | 🌐 C | 📅 2026-09-14)
 * [miniircd](https://github.com/jrosdahl/miniircd) ⭐ 451 | 🐛 5 | 🌐 Python | 📅 2025-02-12 - Very simple and limited.
 * [RobustIRC](https://robustirc.net) - IRC server without netsplits. ([source](https://github.com/robustirc/robustirc/) ⭐ 195 | 🐛 6 | 🌐 Go | 📅 2026-05-24)
 
@@ -103,7 +103,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 *Used to provide user accounts and bots like NickServ/ChanServ to your network.*
 
 * [Atheme](https://atheme.github.io) - Designed for large networks with high scalability requirements. ([source](https://github.com/atheme/atheme) ⭐ 428 | 🐛 152 | 🌐 C | 📅 2026-08-18)
-* [anope](https://www.anope.org) - Designed for flexibility and ease of use. ([source](https://github.com/anope/anope) ⭐ 365 | 🐛 46 | 🌐 C++ | 📅 2026-09-06)
+* [anope](https://www.anope.org) - Designed for flexibility and ease of use. ([source](https://github.com/anope/anope) ⭐ 365 | 🐛 47 | 🌐 C++ | 📅 2026-09-14)
 
 ## Bots
 
@@ -153,12 +153,12 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 *Sends messages back and forth.*
 
-* [matterbridge](https://github.com/42wim/matterbridge) ⭐ 7,564 | 🐛 337 | 🌐 Go | 📅 2024-12-12 - IRC ↔ Mattermost ↔ Discord ↔ XMPP ↔ Gitter ↔ Slack ↔ Discord ↔ Telegram ↔ etc. `Go`
+* [matterbridge](https://github.com/42wim/matterbridge) ⭐ 7,566 | 🐛 337 | 🌐 Go | 📅 2024-12-12 - IRC ↔ Mattermost ↔ Discord ↔ XMPP ↔ Gitter ↔ Slack ↔ Discord ↔ Telegram ↔ etc. `Go`
 * [discord-irc](https://github.com/reactiflux/discord-irc) ⭐ 1,224 | 🐛 75 | 🌐 JavaScript | 📅 2023-11-25 - Discord ↔ IRC. `JavaScript`
 * [slack-irc](https://github.com/ekmartin/slack-irc) ⭐ 588 | 🐛 29 | 🌐 JavaScript | 📅 2022-10-12 - Slack ↔ IRC. `JavaScript`
 * [Appservice-IRC](https://github.com/matrix-org/matrix-appservice-irc) ⭐ 507 | 🐛 507 | 🌐 TypeScript | 📅 2026-04-02 - Gateway and bridge Matrix ↔ IRC `Javascript`
-* [Heisenbridge](https://github.com/hifi/heisenbridge) ⭐ 309 | 🐛 90 | 🌐 Python | 📅 2025-10-04 - Bouncer-style Matrix IRC bridge `Python`
-* [matterircd](https://github.com/42wim/matterircd) ⭐ 307 | 🐛 4 | 🌐 Go | 📅 2026-09-13 - Matterbridge ↔ IRC, Slack ↔ IRC, Mastodon ↔ IRC. `Go`
+* [Heisenbridge](https://github.com/hifi/heisenbridge) ⭐ 309 | 🐛 89 | 🌐 Python | 📅 2025-10-04 - Bouncer-style Matrix IRC bridge `Python`
+* [matterircd](https://github.com/42wim/matterircd) ⭐ 307 | 🐛 4 | 🌐 Go | 📅 2026-09-15 - Matterbridge ↔ IRC, Slack ↔ IRC, Mastodon ↔ IRC. `Go`
 * [irc-slack](https://github.com/insomniacslk/irc-slack) ⭐ 205 | 🐛 25 | 🌐 Go | 📅 2026-08-31 - Slack ↔ IRC. `Go`
 * [teleirc](https://github.com/RITlug/teleirc) ⭐ 159 | 🐛 39 | 🌐 Go | 📅 2026-01-11 - Telegram ↔ IRC. `JavaScript`
 * [Dis4IRC](https://github.com/zachbr/Dis4IRC) ⭐ 118 | 🐛 21 | 🌐 Kotlin | 📅 2026-09-06 - Discord ↔ IRC. `Kotlin`
@@ -240,4 +240,4 @@ By [Craig Davison](https://davison.io) and contributors.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
