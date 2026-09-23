@@ -239,7 +239,7 @@
             "open_issues": 50,
             "owner": "obbyworld",
             "repo": "obby",
-            "stars": 233,
+            "stars": 234,
             "topics": [
               "avatars",
               "docker",
@@ -340,7 +340,7 @@
             "id": 42721854,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-09-10T10:22:06Z",
+            "last_commit": "2026-09-23T02:34:19Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "konversation",
@@ -408,7 +408,7 @@
                     "open_issues": 32,
                     "owner": "irccloud",
                     "repo": "android",
-                    "stars": 312,
+                    "stars": 313,
                     "topics": [
                       "android",
                       "chat",
@@ -587,7 +587,7 @@
                 "open_issues": 61,
                 "owner": "convos-chat",
                 "repo": "convos",
-                "stars": 1192,
+                "stars": 1191,
                 "topics": [
                   "chat",
                   "irc",
@@ -654,7 +654,7 @@
             "open_issues": 205,
             "owner": "ergochat",
             "repo": "ergo",
-            "stars": 3332,
+            "stars": 3333,
             "topics": [
               "daemon",
               "irc",
@@ -682,7 +682,7 @@
             "language": "C++",
             "license": null,
             "last_commit": "2026-09-21T15:08:09Z",
-            "open_issues": 112,
+            "open_issues": 113,
             "owner": "inspircd",
             "repo": "inspircd",
             "stars": 1347,
@@ -799,7 +799,7 @@
             "open_issues": 5,
             "owner": "jrosdahl",
             "repo": "miniircd",
-            "stars": 452,
+            "stars": 453,
             "topics": [
               "daemon",
               "irc",
@@ -958,7 +958,7 @@
             "open_issues": 167,
             "owner": "sopel-irc",
             "repo": "sopel",
-            "stars": 982,
+            "stars": 981,
             "topics": [
               "hacktoberfest",
               "irc",
@@ -1014,8 +1014,8 @@
             "id": 44209137,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-20T02:14:33Z",
-            "open_issues": 256,
+            "last_commit": "2026-09-22T22:42:49Z",
+            "open_issues": 257,
             "owner": "eggheads",
             "repo": "eggdrop",
             "stars": 582,
@@ -1085,7 +1085,7 @@
             "id": 216284647,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-22T04:06:23Z",
+            "last_commit": "2026-09-23T03:22:57Z",
             "open_issues": 24,
             "owner": "TotallyNotRobots",
             "repo": "CloudBot",
@@ -1158,7 +1158,7 @@
             "open_issues": 94,
             "owner": "bitbot-irc",
             "repo": "bitbot",
-            "stars": 148,
+            "stars": 149,
             "topics": [
               "irc",
               "irc-bot",
@@ -1580,7 +1580,7 @@
                 "open_issues": 337,
                 "owner": "42wim",
                 "repo": "matterbridge",
-                "stars": 7568,
+                "stars": 7571,
                 "topics": [
                   "bridge",
                   "counter-strike",
@@ -1709,7 +1709,7 @@
                 "id": 45397023,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-22T04:07:46Z",
+                "last_commit": "2026-09-22T06:30:47Z",
                 "open_issues": 4,
                 "owner": "42wim",
                 "repo": "matterircd",
@@ -2128,7 +2128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T06:27:27.038Z",
+    "last_updated": "2026-09-23T06:11:38.540Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome IRC resources.",
