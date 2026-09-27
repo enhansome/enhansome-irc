@@ -491,10 +491,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-24T19:02:58Z",
-                "open_issues": 316,
+                "open_issues": 315,
                 "owner": "thelounge",
                 "repo": "thelounge",
-                "stars": 6339,
+                "stars": 6340,
                 "topics": [
                   "chat",
                   "irc",
@@ -521,7 +521,7 @@
                 "id": 17359210,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-25T19:03:47Z",
+                "last_commit": "2026-09-27T05:37:50Z",
                 "open_issues": 440,
                 "owner": "weechat",
                 "repo": "weechat",
@@ -587,7 +587,7 @@
                 "open_issues": 61,
                 "owner": "convos-chat",
                 "repo": "convos",
-                "stars": 1191,
+                "stars": 1192,
                 "topics": [
                   "chat",
                   "irc",
@@ -651,7 +651,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-01T01:16:47Z",
-            "open_issues": 206,
+            "open_issues": 207,
             "owner": "ergochat",
             "repo": "ergo",
             "stars": 3335,
@@ -681,7 +681,7 @@
             "id": 3786218,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-09-25T12:02:24Z",
+            "last_commit": "2026-09-26T12:35:15Z",
             "open_issues": 115,
             "owner": "inspircd",
             "repo": "inspircd",
@@ -885,7 +885,7 @@
             "open_issues": 48,
             "owner": "anope",
             "repo": "anope",
-            "stars": 365,
+            "stars": 366,
             "topics": [
               "anope",
               "irc",
@@ -1015,7 +1015,7 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-09-22T22:42:49Z",
-            "open_issues": 256,
+            "open_issues": 255,
             "owner": "eggheads",
             "repo": "eggdrop",
             "stars": 582,
@@ -1446,7 +1446,7 @@
             "open_issues": 15,
             "owner": "thoj",
             "repo": "go-ircevent",
-            "stars": 498,
+            "stars": 497,
             "topics": []
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
@@ -1580,7 +1580,7 @@
                 "open_issues": 337,
                 "owner": "42wim",
                 "repo": "matterbridge",
-                "stars": 7576,
+                "stars": 7574,
                 "topics": [
                   "bridge",
                   "counter-strike",
@@ -1622,7 +1622,7 @@
                 "open_issues": 75,
                 "owner": "reactiflux",
                 "repo": "discord-irc",
-                "stars": 1224,
+                "stars": 1225,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:03:31.399Z"
@@ -1661,7 +1661,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-04-02T15:31:38Z",
-                "open_issues": 507,
+                "open_issues": 506,
                 "owner": "matrix-org",
                 "repo": "matrix-appservice-irc",
                 "stars": 507,
@@ -2128,7 +2128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T06:16:32.774Z",
+    "last_updated": "2026-09-27T06:44:49.820Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome IRC resources.",
