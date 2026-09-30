@@ -494,7 +494,7 @@
                 "open_issues": 315,
                 "owner": "thelounge",
                 "repo": "thelounge",
-                "stars": 6342,
+                "stars": 6343,
                 "topics": [
                   "chat",
                   "irc",
@@ -525,7 +525,7 @@
                 "open_issues": 440,
                 "owner": "weechat",
                 "repo": "weechat",
-                "stars": 3396,
+                "stars": 3397,
                 "topics": [
                   "c",
                   "chat",
@@ -654,7 +654,7 @@
             "open_issues": 207,
             "owner": "ergochat",
             "repo": "ergo",
-            "stars": 3338,
+            "stars": 3340,
             "topics": [
               "daemon",
               "irc",
@@ -881,8 +881,8 @@
             "id": 909217,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-09-28T16:59:05Z",
-            "open_issues": 49,
+            "last_commit": "2026-09-29T15:04:02Z",
+            "open_issues": 48,
             "owner": "anope",
             "repo": "anope",
             "stars": 366,
@@ -916,7 +916,7 @@
             "open_issues": 64,
             "owner": "wabarc",
             "repo": "wayback",
-            "stars": 2236,
+            "stars": 2238,
             "topics": [
               "archive",
               "har",
@@ -1085,7 +1085,7 @@
             "id": 216284647,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-29T03:22:50Z",
+            "last_commit": "2026-09-29T15:29:50Z",
             "open_issues": 24,
             "owner": "TotallyNotRobots",
             "repo": "CloudBot",
@@ -1580,7 +1580,7 @@
                 "open_issues": 337,
                 "owner": "42wim",
                 "repo": "matterbridge",
-                "stars": 7574,
+                "stars": 7576,
                 "topics": [
                   "bridge",
                   "counter-strike",
@@ -1709,7 +1709,7 @@
                 "id": 45397023,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-29T04:00:19Z",
+                "last_commit": "2026-09-29T09:26:15Z",
                 "open_issues": 4,
                 "owner": "42wim",
                 "repo": "matterircd",
@@ -2109,7 +2109,7 @@
             "id": 621158533,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-23T09:59:39Z",
+            "last_commit": "2026-09-29T16:16:11Z",
             "open_issues": 1,
             "owner": "waveplate",
             "repo": "img2irc",
@@ -2128,7 +2128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T07:07:15.908Z",
+    "last_updated": "2026-09-30T06:57:40.176Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome IRC resources.",
@@ -2140,7 +2140,7 @@
       "open_issues": 2,
       "owner": "davisonio",
       "repo": "awesome-irc",
-      "stars": 1334,
+      "stars": 1335,
       "topics": [
         "awesome",
         "awesome-list",

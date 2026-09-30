@@ -77,8 +77,8 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 ### Self-hosted
 
-* [![TheLounge-icon](https://user-images.githubusercontent.com/15098724/56899491-6b2fe000-6a48-11e9-9f01-1ed2cfb86b09.png) TheLounge](https://thelounge.chat) - Responsive, self-hosted & support for multiple users. ([source](https://github.com/thelounge/thelounge) ⭐ 6,342 | 🐛 315 | 🌐 TypeScript | 📅 2026-09-24, [demo](https://demo.thelounge.chat/)) `JavaScript` `Node.js` `Web`
-* [![WeeChat-icon](https://user-images.githubusercontent.com/15098724/56876389-e028f880-69fb-11e9-82d6-8084e17f2f04.png) WeeChat](https://weechat.org) - A fast, light and extensible chat client. ([source](https://github.com/weechat/weechat) ⭐ 3,396 | 🐛 440 | 🌐 C | 📅 2026-09-28) `Linux` `macOS`
+* [![TheLounge-icon](https://user-images.githubusercontent.com/15098724/56899491-6b2fe000-6a48-11e9-9f01-1ed2cfb86b09.png) TheLounge](https://thelounge.chat) - Responsive, self-hosted & support for multiple users. ([source](https://github.com/thelounge/thelounge) ⭐ 6,343 | 🐛 315 | 🌐 TypeScript | 📅 2026-09-24, [demo](https://demo.thelounge.chat/)) `JavaScript` `Node.js` `Web`
+* [![WeeChat-icon](https://user-images.githubusercontent.com/15098724/56876389-e028f880-69fb-11e9-82d6-8084e17f2f04.png) WeeChat](https://weechat.org) - A fast, light and extensible chat client. ([source](https://github.com/weechat/weechat) ⭐ 3,397 | 🐛 440 | 🌐 C | 📅 2026-09-28) `Linux` `macOS`
 * [![ZNC-icon](https://user-images.githubusercontent.com/15098724/56879721-d8268400-6a0e-11e9-8b74-c2c748d15c4a.png) ZNC](https://wiki.znc.in/ZNC) - Most popular. many different plugins. ([source](https://github.com/znc/znc) ⭐ 2,127 | 🐛 384 | 🌐 C++ | 📅 2026-09-24) `C++`
 * [![Convos-icon](https://user-images.githubusercontent.com/15098724/56879497-d8724f80-6a0d-11e9-844d-7a5380b4524b.png) Convos](https://convos.chat) - Always online web IRC client. ([source](https://github.com/convos-chat/convos) ⭐ 1,194 | 🐛 61 | 🌐 Go | 📅 2026-09-25) `Perl` `JavaScript` `Web`
 * [sms-webhook](https://github.com/terminaldweller/sms-webhook) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2026-02-10 - A simple webhook to receive SMS messages on IRC. `Go`
@@ -90,7 +90,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 *Used for running your own IRC server or network.*
 
-* [Ergo](https://ergo.chat/) - Modern server that's portable and designed around specifications (bleeding-edge IRCv3 support). ([source](https://github.com/ergochat/ergo) ⭐ 3,338 | 🐛 207 | 🌐 Go | 📅 2026-09-01)
+* [Ergo](https://ergo.chat/) - Modern server that's portable and designed around specifications (bleeding-edge IRCv3 support). ([source](https://github.com/ergochat/ergo) ⭐ 3,340 | 🐛 207 | 🌐 Go | 📅 2026-09-01)
 * [InspIRCd](https://www.inspircd.org) - Modular, stable, written from scratch. ([source](https://github.com/inspircd/inspircd) ⭐ 1,350 | 🐛 115 | 🌐 C++ | 📅 2026-09-27)
 * [ngIRCd](https://ngircd.barton.de) - Portable and lightweight for small or private networks. ([source](https://github.com/ngircd/ngircd) ⭐ 580 | 🐛 31 | 🌐 C | 📅 2026-07-12)
 * [ircd.js](https://github.com/alexyoung/ircd.js) ⭐ 531 | 🐛 12 | 🌐 JavaScript | 📅 2021-05-31 - Server will allow clients to connect, join channels, change topics; basic stuff.
@@ -103,13 +103,13 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 *Used to provide user accounts and bots like NickServ/ChanServ to your network.*
 
 * [Atheme](https://atheme.github.io) - Designed for large networks with high scalability requirements. ([source](https://github.com/atheme/atheme) ⭐ 429 | 🐛 152 | 🌐 C | 📅 2026-08-18)
-* [anope](https://www.anope.org) - Designed for flexibility and ease of use. ([source](https://github.com/anope/anope) ⭐ 366 | 🐛 49 | 🌐 C++ | 📅 2026-09-28)
+* [anope](https://www.anope.org) - Designed for flexibility and ease of use. ([source](https://github.com/anope/anope) ⭐ 366 | 🐛 48 | 🌐 C++ | 📅 2026-09-29)
 
 ## Bots
 
 *IRC users which provide services for humans, e.g. integrations or information.*
 
-* [wayback](https://github.com/wabarc/wayback) ⭐ 2,236 | 🐛 64 | 🌐 Go | 📅 2026-09-07 - An archiving tool with an IRC interface integrated with various archiving services.
+* [wayback](https://github.com/wabarc/wayback) ⭐ 2,238 | 🐛 64 | 🌐 Go | 📅 2026-09-07 - An archiving tool with an IRC interface integrated with various archiving services.
 * [Sopel](https://sopel.chat) - Tonnes of ready made features, tutorial, fully documented. ([source](https://github.com/sopel-irc/sopel) ⭐ 982 | 🐛 169 | 🌐 Python | 📅 2026-09-28) `Python`
 * [Limnoria](https://github.com/ProgVal/Limnoria) ⭐ 672 | 🐛 248 | 🌐 Python | 📅 2026-09-20 - Robust, user friendly, developer friendly. `Python`
 * [Eggdrop](https://www.eggheads.org) - Oldest IRC bot still in active development. Feature rich, uses Tcl scripting. ([source](https://github.com/eggheads/eggdrop) ⭐ 582 | 🐛 255 | 🌐 C | 📅 2026-09-22) `C`
@@ -153,7 +153,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 *Sends messages back and forth.*
 
-* [matterbridge](https://github.com/42wim/matterbridge) ⭐ 7,574 | 🐛 337 | 🌐 Go | 📅 2024-12-12 - IRC ↔ Mattermost ↔ Discord ↔ XMPP ↔ Gitter ↔ Slack ↔ Discord ↔ Telegram ↔ etc. `Go`
+* [matterbridge](https://github.com/42wim/matterbridge) ⭐ 7,576 | 🐛 337 | 🌐 Go | 📅 2024-12-12 - IRC ↔ Mattermost ↔ Discord ↔ XMPP ↔ Gitter ↔ Slack ↔ Discord ↔ Telegram ↔ etc. `Go`
 * [discord-irc](https://github.com/reactiflux/discord-irc) ⭐ 1,225 | 🐛 75 | 🌐 JavaScript | 📅 2023-11-25 - Discord ↔ IRC. `JavaScript`
 * [slack-irc](https://github.com/ekmartin/slack-irc) ⭐ 588 | 🐛 29 | 🌐 JavaScript | 📅 2022-10-12 - Slack ↔ IRC. `JavaScript`
 * [Appservice-IRC](https://github.com/matrix-org/matrix-appservice-irc) ⭐ 507 | 🐛 506 | 🌐 TypeScript | 📅 2026-04-02 - Gateway and bridge Matrix ↔ IRC `Javascript`
@@ -220,7 +220,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 *Items that belong on the list but defy classification.*
 
 * [superseriousstats](https://github.com/tommyrot/superseriousstats) ⭐ 104 | 🐛 0 | 🌐 PHP | 📅 2026-08-30 - Fast and efficient program to create statistics out of various types of chat logs. `PHP` `Web`
-* [img2src](https://github.com/waveplate/img2irc) ⭐ 46 | 🐛 1 | 🌐 Rust | 📅 2026-09-23 - Convert images to halfblock ANSI or IRC, with a bunch of post-processing filters. `Rust`
+* [img2src](https://github.com/waveplate/img2irc) ⭐ 46 | 🐛 1 | 🌐 Rust | 📅 2026-09-29 - Convert images to halfblock ANSI or IRC, with a bunch of post-processing filters. `Rust`
 
 ## Use
 
@@ -240,4 +240,4 @@ By [Craig Davison](https://davison.io) and contributors.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
