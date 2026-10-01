@@ -70,7 +70,7 @@
             "open_issues": 198,
             "owner": "psychs",
             "repo": "limechat",
-            "stars": 1583,
+            "stars": 1584,
             "topics": []
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
@@ -213,7 +213,7 @@
             "open_issues": 215,
             "owner": "kvirc",
             "repo": "KVIrc",
-            "stars": 304,
+            "stars": 305,
             "topics": [
               "irc",
               "irc-client",
@@ -235,8 +235,8 @@
             "id": 968663381,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-28T06:14:35Z",
-            "open_issues": 51,
+            "last_commit": "2026-10-01T06:16:39Z",
+            "open_issues": 50,
             "owner": "obbyworld",
             "repo": "obby",
             "stars": 234,
@@ -490,7 +490,7 @@
                 "id": 51344082,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-24T19:02:58Z",
+                "last_commit": "2026-09-30T21:03:46Z",
                 "open_issues": 315,
                 "owner": "thelounge",
                 "repo": "thelounge",
@@ -525,7 +525,7 @@
                 "open_issues": 440,
                 "owner": "weechat",
                 "repo": "weechat",
-                "stars": 3397,
+                "stars": 3396,
                 "topics": [
                   "c",
                   "chat",
@@ -654,7 +654,7 @@
             "open_issues": 207,
             "owner": "ergochat",
             "repo": "ergo",
-            "stars": 3340,
+            "stars": 3343,
             "topics": [
               "daemon",
               "irc",
@@ -770,7 +770,7 @@
             "open_issues": 4,
             "owner": "unrealircd",
             "repo": "unrealircd",
-            "stars": 524,
+            "stars": 525,
             "topics": [
               "c",
               "irc",
@@ -1018,7 +1018,7 @@
             "open_issues": 255,
             "owner": "eggheads",
             "repo": "eggdrop",
-            "stars": 582,
+            "stars": 583,
             "topics": [
               "bot",
               "c",
@@ -1086,7 +1086,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-09-29T15:29:50Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "TotallyNotRobots",
             "repo": "CloudBot",
             "stars": 182,
@@ -1287,7 +1287,7 @@
             "open_issues": 2,
             "owner": "terminaldweller",
             "repo": "milla",
-            "stars": 18,
+            "stars": 19,
             "topics": [
               "bot",
               "chatbot",
@@ -1580,7 +1580,7 @@
                 "open_issues": 337,
                 "owner": "42wim",
                 "repo": "matterbridge",
-                "stars": 7576,
+                "stars": 7577,
                 "topics": [
                   "bridge",
                   "counter-strike",
@@ -1809,7 +1809,7 @@
                 "open_issues": 21,
                 "owner": "zachbr",
                 "repo": "Dis4IRC",
-                "stars": 119,
+                "stars": 120,
                 "topics": [
                   "bridge",
                   "configurate",
@@ -1863,7 +1863,7 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-08-04T11:02:28Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "OpenTTD",
                 "repo": "dibridge",
                 "stars": 21,
@@ -2128,7 +2128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T06:57:40.176Z",
+    "last_updated": "2026-10-01T07:22:36.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome IRC resources.",
