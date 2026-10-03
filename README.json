@@ -70,7 +70,7 @@
             "open_issues": 198,
             "owner": "psychs",
             "repo": "limechat",
-            "stars": 1584,
+            "stars": 1585,
             "topics": []
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
@@ -91,7 +91,7 @@
             "open_issues": 194,
             "owner": "kiwiirc",
             "repo": "kiwiirc",
-            "stars": 990,
+            "stars": 989,
             "topics": [
               "chat",
               "client",
@@ -239,7 +239,7 @@
             "open_issues": 50,
             "owner": "obbyworld",
             "repo": "obby",
-            "stars": 234,
+            "stars": 235,
             "topics": [
               "avatars",
               "docker",
@@ -494,7 +494,7 @@
                 "open_issues": 315,
                 "owner": "thelounge",
                 "repo": "thelounge",
-                "stars": 6343,
+                "stars": 6341,
                 "topics": [
                   "chat",
                   "irc",
@@ -885,7 +885,7 @@
             "open_issues": 48,
             "owner": "anope",
             "repo": "anope",
-            "stars": 366,
+            "stars": 365,
             "topics": [
               "anope",
               "irc",
@@ -1287,7 +1287,7 @@
             "open_issues": 2,
             "owner": "terminaldweller",
             "repo": "milla",
-            "stars": 19,
+            "stars": 20,
             "topics": [
               "bot",
               "chatbot",
@@ -1517,7 +1517,7 @@
         {
           "node_type": "item",
           "title": "node-irc",
-          "description": null,
+          "description": "Throne3d/node-irc",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1709,7 +1709,7 @@
                 "id": 45397023,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-01T22:40:26Z",
+                "last_commit": "2026-10-02T20:58:57Z",
                 "open_issues": 4,
                 "owner": "42wim",
                 "repo": "matterircd",
@@ -1771,7 +1771,7 @@
                 "open_issues": 39,
                 "owner": "RITlug",
                 "repo": "teleirc",
-                "stars": 159,
+                "stars": 158,
                 "topics": [
                   "bridge",
                   "go",
@@ -2128,7 +2128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T07:10:36.818Z",
+    "last_updated": "2026-10-03T04:51:09.892Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome IRC resources.",
