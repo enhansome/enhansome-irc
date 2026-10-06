@@ -45,7 +45,7 @@
             "id": 792833,
             "language": "Objective-C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T06:32:06Z",
+            "last_commit": "2026-10-06T09:02:11Z",
             "open_issues": 5,
             "owner": "blendbyte",
             "repo": "Textual",
@@ -592,7 +592,7 @@
                 "open_issues": 62,
                 "owner": "convos-chat",
                 "repo": "convos",
-                "stars": 1194,
+                "stars": 1195,
                 "topics": [
                   "chat",
                   "irc",
@@ -2133,7 +2133,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T07:44:27.599Z",
+    "last_updated": "2026-10-06T10:45:18.635Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome IRC resources.",
