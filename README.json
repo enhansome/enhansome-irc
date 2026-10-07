@@ -19,7 +19,7 @@
             "open_issues": 768,
             "owner": "hexchat",
             "repo": "hexchat",
-            "stars": 3229,
+            "stars": 3228,
             "topics": [
               "c",
               "gtk",
@@ -45,11 +45,11 @@
             "id": 792833,
             "language": "Objective-C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T09:02:11Z",
+            "last_commit": "2026-10-07T07:16:06Z",
             "open_issues": 5,
             "owner": "blendbyte",
             "repo": "Textual",
-            "stars": 1908,
+            "stars": 1909,
             "topics": [
               "irc",
               "irc-client",
@@ -96,7 +96,7 @@
             "open_issues": 194,
             "owner": "kiwiirc",
             "repo": "kiwiirc",
-            "stars": 989,
+            "stars": 990,
             "topics": [
               "chat",
               "client",
@@ -345,7 +345,7 @@
             "id": 42721854,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-10-06T04:13:32Z",
+            "last_commit": "2026-10-07T02:52:15Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "konversation",
@@ -530,7 +530,7 @@
                 "open_issues": 440,
                 "owner": "weechat",
                 "repo": "weechat",
-                "stars": 3397,
+                "stars": 3398,
                 "topics": [
                   "c",
                   "chat",
@@ -566,7 +566,7 @@
                 "open_issues": 383,
                 "owner": "znc",
                 "repo": "znc",
-                "stars": 2127,
+                "stars": 2126,
                 "topics": [
                   "hacktoberfest",
                   "irc",
@@ -804,7 +804,7 @@
             "open_issues": 5,
             "owner": "jrosdahl",
             "repo": "miniircd",
-            "stars": 453,
+            "stars": 454,
             "topics": [
               "daemon",
               "irc",
@@ -890,7 +890,7 @@
             "open_issues": 47,
             "owner": "anope",
             "repo": "anope",
-            "stars": 365,
+            "stars": 366,
             "topics": [
               "anope",
               "irc",
@@ -921,7 +921,7 @@
             "open_issues": 65,
             "owner": "wabarc",
             "repo": "wayback",
-            "stars": 2236,
+            "stars": 2237,
             "topics": [
               "archive",
               "har",
@@ -963,7 +963,7 @@
             "open_issues": 169,
             "owner": "sopel-irc",
             "repo": "sopel",
-            "stars": 982,
+            "stars": 981,
             "topics": [
               "hacktoberfest",
               "irc",
@@ -1019,8 +1019,8 @@
             "id": 44209137,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-05T21:39:09Z",
-            "open_issues": 248,
+            "last_commit": "2026-10-06T23:26:25Z",
+            "open_issues": 247,
             "owner": "eggheads",
             "repo": "eggdrop",
             "stars": 583,
@@ -1378,7 +1378,7 @@
             "open_issues": 19,
             "owner": "mmb",
             "repo": "weechat-otr",
-            "stars": 134,
+            "stars": 133,
             "topics": []
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
@@ -1585,7 +1585,7 @@
                 "open_issues": 337,
                 "owner": "42wim",
                 "repo": "matterbridge",
-                "stars": 7577,
+                "stars": 7578,
                 "topics": [
                   "bridge",
                   "counter-strike",
@@ -2133,7 +2133,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:45:18.635Z",
+    "last_updated": "2026-10-07T07:24:52.023Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome IRC resources.",
