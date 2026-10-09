@@ -45,11 +45,11 @@
             "id": 792833,
             "language": "Objective-C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T07:17:40Z",
+            "last_commit": "2026-10-09T06:34:10Z",
             "open_issues": 5,
             "owner": "blendbyte",
             "repo": "Textual",
-            "stars": 1910,
+            "stars": 1912,
             "topics": [
               "irc",
               "irc-client",
@@ -241,7 +241,7 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-10-05T06:14:54Z",
-            "open_issues": 49,
+            "open_issues": 51,
             "owner": "obbyworld",
             "repo": "obby",
             "stars": 237,
@@ -345,7 +345,7 @@
             "id": 42721854,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-10-08T03:46:21Z",
+            "last_commit": "2026-10-08T10:04:27Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "konversation",
@@ -499,7 +499,7 @@
                 "open_issues": 315,
                 "owner": "thelounge",
                 "repo": "thelounge",
-                "stars": 6347,
+                "stars": 6348,
                 "topics": [
                   "chat",
                   "irc",
@@ -566,7 +566,7 @@
                 "open_issues": 383,
                 "owner": "znc",
                 "repo": "znc",
-                "stars": 2127,
+                "stars": 2126,
                 "topics": [
                   "hacktoberfest",
                   "irc",
@@ -655,11 +655,11 @@
             "id": 55980660,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-07T21:48:18Z",
-            "open_issues": 210,
+            "last_commit": "2026-10-08T22:32:48Z",
+            "open_issues": 213,
             "owner": "ergochat",
             "repo": "ergo",
-            "stars": 3347,
+            "stars": 3348,
             "topics": [
               "daemon",
               "irc",
@@ -690,7 +690,7 @@
             "open_issues": 116,
             "owner": "inspircd",
             "repo": "inspircd",
-            "stars": 1350,
+            "stars": 1351,
             "topics": [
               "c-plus-plus",
               "inspircd",
@@ -775,7 +775,7 @@
             "open_issues": 4,
             "owner": "unrealircd",
             "repo": "unrealircd",
-            "stars": 525,
+            "stars": 526,
             "topics": [
               "c",
               "irc",
@@ -921,7 +921,7 @@
             "open_issues": 65,
             "owner": "wabarc",
             "repo": "wayback",
-            "stars": 2236,
+            "stars": 2237,
             "topics": [
               "archive",
               "har",
@@ -1585,7 +1585,7 @@
                 "open_issues": 337,
                 "owner": "42wim",
                 "repo": "matterbridge",
-                "stars": 7578,
+                "stars": 7577,
                 "topics": [
                   "bridge",
                   "counter-strike",
@@ -1669,7 +1669,7 @@
                 "open_issues": 507,
                 "owner": "matrix-org",
                 "repo": "matrix-appservice-irc",
-                "stars": 506,
+                "stars": 507,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:03:31.399Z"
@@ -1714,7 +1714,7 @@
                 "id": 45397023,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-02T20:58:57Z",
+                "last_commit": "2026-10-08T20:02:57Z",
                 "open_issues": 4,
                 "owner": "42wim",
                 "repo": "matterircd",
@@ -1932,7 +1932,7 @@
             "open_issues": 47,
             "owner": "ircdocs",
             "repo": "modern-irc",
-            "stars": 230,
+            "stars": 231,
             "topics": [
               "ctcp",
               "irc",
@@ -2133,7 +2133,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T07:40:17.099Z",
+    "last_updated": "2026-10-09T07:36:49.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome IRC resources.",
@@ -2145,7 +2145,7 @@
       "open_issues": 2,
       "owner": "davisonio",
       "repo": "awesome-irc",
-      "stars": 1335,
+      "stars": 1337,
       "topics": [
         "awesome",
         "awesome-list",
