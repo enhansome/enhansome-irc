@@ -45,8 +45,8 @@
             "id": 792833,
             "language": "Objective-C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T05:52:16Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-15T04:47:28Z",
+            "open_issues": 0,
             "owner": "blendbyte",
             "repo": "Textual",
             "stars": 1915,
@@ -111,7 +111,7 @@
         {
           "node_type": "item",
           "title": "Quassel",
-          "description": "Distributed (clients can attach to and detach from a central core that stays permanently online. (source)",
+          "description": "Distributed (clients can attach to and detach from a central core that stays permanently online). (source)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -124,7 +124,7 @@
             "open_issues": 24,
             "owner": "quassel",
             "repo": "quassel",
-            "stars": 793,
+            "stars": 792,
             "topics": [
               "bouncer",
               "irc",
@@ -240,7 +240,7 @@
             "id": 968663381,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-13T21:46:01Z",
+            "last_commit": "2026-10-14T14:27:52Z",
             "open_issues": 61,
             "owner": "obbyworld",
             "repo": "obby",
@@ -395,7 +395,7 @@
             {
               "node_type": "group",
               "title": "IRCCloud",
-              "description": "Group chat for teams, friends, and communities. stay connected, chat from anywhere, and never miss a message (+client) (£0-£3.50/month).",
+              "description": "Group chat for teams, friends, and communities. Stay connected, chat from anywhere, and never miss a message (+client) (£0-£3.50/month).",
               "children": [
                 {
                   "node_type": "item",
@@ -530,7 +530,7 @@
                 "open_issues": 422,
                 "owner": "weechat",
                 "repo": "weechat",
-                "stars": 3405,
+                "stars": 3403,
                 "topics": [
                   "c",
                   "chat",
@@ -553,7 +553,7 @@
             {
               "node_type": "item",
               "title": "ZNC",
-              "description": "Most popular. many different plugins. (source)",
+              "description": "Most popular. Many different plugins. (source)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -563,10 +563,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T06:27:17Z",
-                "open_issues": 386,
+                "open_issues": 387,
                 "owner": "znc",
                 "repo": "znc",
-                "stars": 2128,
+                "stars": 2127,
                 "topics": [
                   "hacktoberfest",
                   "irc",
@@ -588,7 +588,7 @@
                 "id": 14822868,
                 "language": "Go",
                 "license": "Artistic-2.0",
-                "last_commit": "2026-10-13T12:03:41Z",
+                "last_commit": "2026-10-14T16:44:20Z",
                 "open_issues": 65,
                 "owner": "convos-chat",
                 "repo": "convos",
@@ -659,7 +659,7 @@
             "open_issues": 211,
             "owner": "ergochat",
             "repo": "ergo",
-            "stars": 3350,
+            "stars": 3349,
             "topics": [
               "daemon",
               "irc",
@@ -690,7 +690,7 @@
             "open_issues": 114,
             "owner": "inspircd",
             "repo": "inspircd",
-            "stars": 1354,
+            "stars": 1353,
             "topics": [
               "c-plus-plus",
               "inspircd",
@@ -720,7 +720,7 @@
             "open_issues": 31,
             "owner": "ngircd",
             "repo": "ngircd",
-            "stars": 582,
+            "stars": 581,
             "topics": [
               "bsd",
               "c",
@@ -771,7 +771,7 @@
             "id": 22337925,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-12T12:59:18Z",
+            "last_commit": "2026-10-14T06:46:28Z",
             "open_issues": 4,
             "owner": "unrealircd",
             "repo": "unrealircd",
@@ -917,11 +917,11 @@
             "id": 271984275,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-13T16:19:25Z",
+            "last_commit": "2026-10-14T14:07:15Z",
             "open_issues": 63,
             "owner": "wabarc",
             "repo": "wayback",
-            "stars": 2241,
+            "stars": 2240,
             "topics": [
               "archive",
               "har",
@@ -959,11 +959,11 @@
             "id": 3035586,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T22:47:17Z",
-            "open_issues": 171,
+            "last_commit": "2026-10-14T16:28:08Z",
+            "open_issues": 169,
             "owner": "sopel-irc",
             "repo": "sopel",
-            "stars": 981,
+            "stars": 982,
             "topics": [
               "irc",
               "irc-bot",
@@ -1312,7 +1312,7 @@
         {
           "node_type": "item",
           "title": "EveIRC",
-          "description": "Extendable chat/channel/server-managenent service-providing bot. Using the Cinch Framework.",
+          "description": "Extendable chat/channel/server-management service-providing bot. Using the Cinch Framework.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1655,7 +1655,7 @@
             {
               "node_type": "item",
               "title": "Appservice-IRC",
-              "description": "Gateway and bridge Matrix ↔ IRC",
+              "description": "Gateway and bridge Matrix ↔ IRC.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1676,7 +1676,7 @@
             {
               "node_type": "item",
               "title": "Heisenbridge",
-              "description": "Bouncer-style Matrix IRC bridge",
+              "description": "Bouncer-style Matrix IRC bridge.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1713,7 +1713,7 @@
                 "id": 45397023,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-14T06:07:27Z",
+                "last_commit": "2026-10-14T19:28:47Z",
                 "open_issues": 4,
                 "owner": "42wim",
                 "repo": "matterircd",
@@ -1857,7 +1857,7 @@
             {
               "node_type": "item",
               "title": "dibridge",
-              "description": "Discord ↔ IRC (with puppets)",
+              "description": "Discord ↔ IRC (with puppets).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1918,7 +1918,7 @@
         {
           "node_type": "item",
           "title": "Modern IRC Documents",
-          "description": "An attempt to write an update to the original IRC protocol. documentation (source)",
+          "description": "An attempt to write an update to the original IRC protocol documentation. (source)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1931,7 +1931,7 @@
             "open_issues": 47,
             "owner": "ircdocs",
             "repo": "modern-irc",
-            "stars": 231,
+            "stars": 232,
             "topics": [
               "ctcp",
               "irc",
@@ -2103,7 +2103,7 @@
         },
         {
           "node_type": "item",
-          "title": "img2src",
+          "title": "img2irc",
           "description": "Convert images to halfblock ANSI or IRC, with a bunch of post-processing filters.",
           "children": [],
           "repo_info": {
@@ -2132,7 +2132,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T06:21:47.566Z",
+    "last_updated": "2026-10-15T06:03:53.351Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome IRC resources.",
@@ -2140,7 +2140,7 @@
       "id": 49790204,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-08-11T19:26:52Z",
+      "last_commit": "2026-10-14T22:16:00Z",
       "open_issues": 2,
       "owner": "davisonio",
       "repo": "awesome-irc",
@@ -2151,7 +2151,7 @@
         "irc"
       ]
     },
-    "original_repository_sha": "bc4059b7c065aae9c4c6d8a08d65d0a478402e96",
+    "original_repository_sha": "c30dd2075d65e97b42ec7230c5f3439ec2d62fba",
     "enhanced_repository": "enhansome/enhansome-irc",
     "enhanced_repository_description": null,
     "title": "Awesome IRC with stars"
