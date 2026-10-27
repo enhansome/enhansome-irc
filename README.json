@@ -45,7 +45,7 @@
             "id": 792833,
             "language": "Objective-C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-24T13:45:56Z",
+            "last_commit": "2026-10-27T05:43:44Z",
             "open_issues": 0,
             "owner": "blendbyte",
             "repo": "Textual",
@@ -240,8 +240,8 @@
             "id": 968663381,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-26T06:14:58Z",
-            "open_issues": 38,
+            "last_commit": "2026-10-26T23:00:34Z",
+            "open_issues": 34,
             "owner": "obbyworld",
             "repo": "obby",
             "stars": 237,
@@ -495,11 +495,11 @@
                 "id": 51344082,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-22T18:15:20Z",
+                "last_commit": "2026-10-27T00:23:02Z",
                 "open_issues": 318,
                 "owner": "thelounge",
                 "repo": "thelounge",
-                "stars": 6359,
+                "stars": 6358,
                 "topics": [
                   "chat",
                   "irc",
@@ -563,7 +563,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-24T09:09:16Z",
-                "open_issues": 386,
+                "open_issues": 387,
                 "owner": "znc",
                 "repo": "znc",
                 "stars": 2128,
@@ -588,7 +588,7 @@
                 "id": 14822868,
                 "language": "Go",
                 "license": "Artistic-2.0",
-                "last_commit": "2026-10-23T07:42:11Z",
+                "last_commit": "2026-10-27T00:47:00Z",
                 "open_issues": 66,
                 "owner": "convos-chat",
                 "repo": "convos",
@@ -659,7 +659,7 @@
             "open_issues": 214,
             "owner": "ergochat",
             "repo": "ergo",
-            "stars": 3353,
+            "stars": 3354,
             "topics": [
               "daemon",
               "irc",
@@ -690,7 +690,7 @@
             "open_issues": 114,
             "owner": "inspircd",
             "repo": "inspircd",
-            "stars": 1358,
+            "stars": 1357,
             "topics": [
               "c-plus-plus",
               "inspircd",
@@ -887,7 +887,7 @@
             "language": "C++",
             "license": null,
             "last_commit": "2026-10-24T15:53:53Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "anope",
             "repo": "anope",
             "stars": 366,
@@ -921,7 +921,7 @@
             "open_issues": 65,
             "owner": "wabarc",
             "repo": "wayback",
-            "stars": 2248,
+            "stars": 2249,
             "topics": [
               "archive",
               "har",
@@ -959,8 +959,8 @@
             "id": 3035586,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-25T20:01:39Z",
-            "open_issues": 169,
+            "last_commit": "2026-10-26T20:15:20Z",
+            "open_issues": 168,
             "owner": "sopel-irc",
             "repo": "sopel",
             "stars": 984,
@@ -989,7 +989,7 @@
             "open_issues": 248,
             "owner": "progval",
             "repo": "Limnoria",
-            "stars": 676,
+            "stars": 675,
             "topics": [
               "gpg",
               "i18n",
@@ -1584,7 +1584,7 @@
                 "open_issues": 339,
                 "owner": "42wim",
                 "repo": "matterbridge",
-                "stars": 7590,
+                "stars": 7595,
                 "topics": [
                   "bridge",
                   "counter-strike",
@@ -1664,7 +1664,7 @@
                 "id": 31962644,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-04-02T15:31:38Z",
+                "last_commit": "2026-10-26T13:48:25Z",
                 "open_issues": 507,
                 "owner": "matrix-org",
                 "repo": "matrix-appservice-irc",
@@ -1717,7 +1717,7 @@
                 "open_issues": 5,
                 "owner": "42wim",
                 "repo": "matterircd",
-                "stars": 308,
+                "stars": 309,
                 "topics": [
                   "irc",
                   "irc-server",
@@ -1741,8 +1741,8 @@
                 "id": 127798941,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-26T02:13:30Z",
-                "open_issues": 25,
+                "last_commit": "2026-10-26T11:42:24Z",
+                "open_issues": 24,
                 "owner": "insomniacslk",
                 "repo": "irc-slack",
                 "stars": 206,
@@ -1813,7 +1813,7 @@
                 "open_issues": 22,
                 "owner": "zachbr",
                 "repo": "Dis4IRC",
-                "stars": 120,
+                "stars": 121,
                 "topics": [
                   "bridge",
                   "configurate",
@@ -1824,6 +1824,27 @@
                   "kittehircclientlib",
                   "kotlin"
                 ]
+              },
+              "first_seen": "2026-08-28T13:03:31.399Z"
+            },
+            {
+              "node_type": "item",
+              "title": "dibridge",
+              "description": "Discord ↔ IRC (with puppets).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Discord <-> IRC Bridge",
+                "homepage": null,
+                "id": 522718422,
+                "language": "Python",
+                "license": "GPL-2.0",
+                "last_commit": "2026-10-24T17:18:20Z",
+                "open_issues": 5,
+                "owner": "OpenTTD",
+                "repo": "dibridge",
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:03:31.399Z"
             },
@@ -1851,27 +1872,6 @@
                   "irc-bridge",
                   "tox"
                 ]
-              },
-              "first_seen": "2026-08-28T13:03:31.399Z"
-            },
-            {
-              "node_type": "item",
-              "title": "dibridge",
-              "description": "Discord ↔ IRC (with puppets).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Discord <-> IRC Bridge",
-                "homepage": null,
-                "id": 522718422,
-                "language": "Python",
-                "license": "GPL-2.0",
-                "last_commit": "2026-10-24T17:18:20Z",
-                "open_issues": 5,
-                "owner": "OpenTTD",
-                "repo": "dibridge",
-                "stars": 21,
-                "topics": []
               },
               "first_seen": "2026-08-28T13:03:31.399Z"
             },
@@ -2132,7 +2132,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T06:35:02.492Z",
+    "last_updated": "2026-10-27T06:30:37.875Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome IRC resources.",
@@ -2144,7 +2144,7 @@
       "open_issues": 2,
       "owner": "davisonio",
       "repo": "awesome-irc",
-      "stars": 1341,
+      "stars": 1342,
       "topics": [
         "awesome",
         "awesome-list",
