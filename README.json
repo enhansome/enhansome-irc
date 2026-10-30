@@ -19,7 +19,7 @@
             "open_issues": 768,
             "owner": "hexchat",
             "repo": "hexchat",
-            "stars": 3225,
+            "stars": 3224,
             "topics": [
               "c",
               "gtk",
@@ -49,7 +49,7 @@
             "open_issues": 0,
             "owner": "blendbyte",
             "repo": "Textual",
-            "stars": 1922,
+            "stars": 1923,
             "topics": [
               "irc",
               "irc-client",
@@ -75,7 +75,7 @@
             "open_issues": 198,
             "owner": "psychs",
             "repo": "limechat",
-            "stars": 1587,
+            "stars": 1586,
             "topics": []
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
@@ -240,8 +240,8 @@
             "id": 968663381,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-28T18:41:02Z",
-            "open_issues": 34,
+            "last_commit": "2026-10-29T15:14:35Z",
+            "open_issues": 35,
             "owner": "obbyworld",
             "repo": "obby",
             "stars": 239,
@@ -345,7 +345,7 @@
             "id": 42721854,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-10-13T02:12:40Z",
+            "last_commit": "2026-10-30T02:00:06Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "konversation",
@@ -495,7 +495,7 @@
                 "id": 51344082,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-29T02:42:03Z",
+                "last_commit": "2026-10-29T20:41:25Z",
                 "open_issues": 325,
                 "owner": "thelounge",
                 "repo": "thelounge",
@@ -526,7 +526,7 @@
                 "id": 17359210,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-21T06:26:33Z",
+                "last_commit": "2026-10-29T22:27:27Z",
                 "open_issues": 386,
                 "owner": "weechat",
                 "repo": "weechat",
@@ -588,11 +588,11 @@
                 "id": 14822868,
                 "language": "Go",
                 "license": "Artistic-2.0",
-                "last_commit": "2026-10-27T00:47:00Z",
+                "last_commit": "2026-10-29T16:45:40Z",
                 "open_issues": 66,
                 "owner": "convos-chat",
                 "repo": "convos",
-                "stars": 1195,
+                "stars": 1194,
                 "topics": [
                   "chat",
                   "irc",
@@ -659,7 +659,7 @@
             "open_issues": 214,
             "owner": "ergochat",
             "repo": "ergo",
-            "stars": 3355,
+            "stars": 3356,
             "topics": [
               "daemon",
               "irc",
@@ -986,7 +986,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-25T07:06:39Z",
-            "open_issues": 249,
+            "open_issues": 251,
             "owner": "progval",
             "repo": "Limnoria",
             "stars": 675,
@@ -1089,7 +1089,7 @@
             "id": 216284647,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-28T20:47:35Z",
+            "last_commit": "2026-10-30T05:00:53Z",
             "open_issues": 25,
             "owner": "TotallyNotRobots",
             "repo": "CloudBot",
@@ -1584,7 +1584,7 @@
                 "open_issues": 339,
                 "owner": "42wim",
                 "repo": "matterbridge",
-                "stars": 7600,
+                "stars": 7602,
                 "topics": [
                   "bridge",
                   "counter-strike",
@@ -1675,6 +1675,34 @@
             },
             {
               "node_type": "item",
+              "title": "matterircd",
+              "description": "Matterbridge ↔ IRC, Slack ↔ IRC, Mastodon ↔ IRC.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Connect to your mattermost or slack using your IRC-client of choice.",
+                "homepage": null,
+                "id": 45397023,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2026-10-29T06:10:22Z",
+                "open_issues": 5,
+                "owner": "42wim",
+                "repo": "matterircd",
+                "stars": 310,
+                "topics": [
+                  "irc",
+                  "irc-server",
+                  "ircd",
+                  "mattermost",
+                  "slack",
+                  "tls-support"
+                ]
+              },
+              "first_seen": "2026-08-28T13:03:31.399Z"
+            },
+            {
+              "node_type": "item",
               "title": "Heisenbridge",
               "description": "Bouncer-style Matrix IRC bridge.",
               "children": [],
@@ -1697,34 +1725,6 @@
                   "irc",
                   "matrix",
                   "python"
-                ]
-              },
-              "first_seen": "2026-08-28T13:03:31.399Z"
-            },
-            {
-              "node_type": "item",
-              "title": "matterircd",
-              "description": "Matterbridge ↔ IRC, Slack ↔ IRC, Mastodon ↔ IRC.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Connect to your mattermost or slack using your IRC-client of choice.",
-                "homepage": null,
-                "id": 45397023,
-                "language": "Go",
-                "license": "MIT",
-                "last_commit": "2026-10-29T06:10:22Z",
-                "open_issues": 5,
-                "owner": "42wim",
-                "repo": "matterircd",
-                "stars": 309,
-                "topics": [
-                  "irc",
-                  "irc-server",
-                  "ircd",
-                  "mattermost",
-                  "slack",
-                  "tls-support"
                 ]
               },
               "first_seen": "2026-08-28T13:03:31.399Z"
@@ -2132,7 +2132,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T07:21:35.054Z",
+    "last_updated": "2026-10-30T07:24:03.352Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome IRC resources.",
