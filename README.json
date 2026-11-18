@@ -45,11 +45,11 @@
             "id": 792833,
             "language": "Objective-C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-17T05:31:14Z",
+            "last_commit": "2026-11-18T07:46:45Z",
             "open_issues": 0,
             "owner": "blendbyte",
             "repo": "Textual",
-            "stars": 1928,
+            "stars": 1927,
             "topics": [
               "irc",
               "irc-client",
@@ -244,7 +244,7 @@
             "open_issues": 37,
             "owner": "obbyworld",
             "repo": "obby",
-            "stars": 241,
+            "stars": 243,
             "topics": [
               "avatars",
               "docker",
@@ -303,7 +303,7 @@
             "id": 393831500,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-16T19:58:35Z",
+            "last_commit": "2026-11-18T00:55:40Z",
             "open_issues": 0,
             "owner": "nutjob-laboratories",
             "repo": "merk",
@@ -436,7 +436,7 @@
                     "id": 8381004,
                     "language": "Objective-C",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-14T00:09:46Z",
+                    "last_commit": "2026-11-17T15:02:48Z",
                     "open_issues": 24,
                     "owner": "irccloud",
                     "repo": "ios",
@@ -499,7 +499,7 @@
                 "open_issues": 328,
                 "owner": "thelounge",
                 "repo": "thelounge",
-                "stars": 6375,
+                "stars": 6376,
                 "topics": [
                   "chat",
                   "irc",
@@ -530,7 +530,7 @@
                 "open_issues": 374,
                 "owner": "weechat",
                 "repo": "weechat",
-                "stars": 3417,
+                "stars": 3418,
                 "topics": [
                   "c",
                   "chat",
@@ -563,7 +563,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-14T19:13:25Z",
-                "open_issues": 387,
+                "open_issues": 388,
                 "owner": "znc",
                 "repo": "znc",
                 "stars": 2129,
@@ -589,7 +589,7 @@
                 "language": "Go",
                 "license": "Artistic-2.0",
                 "last_commit": "2026-11-16T14:54:36Z",
-                "open_issues": 66,
+                "open_issues": 67,
                 "owner": "convos-chat",
                 "repo": "convos",
                 "stars": 1197,
@@ -659,7 +659,7 @@
             "open_issues": 212,
             "owner": "ergochat",
             "repo": "ergo",
-            "stars": 3361,
+            "stars": 3365,
             "topics": [
               "daemon",
               "irc",
@@ -690,7 +690,7 @@
             "open_issues": 115,
             "owner": "inspircd",
             "repo": "inspircd",
-            "stars": 1361,
+            "stars": 1362,
             "topics": [
               "c-plus-plus",
               "inspircd",
@@ -720,7 +720,7 @@
             "open_issues": 33,
             "owner": "ngircd",
             "repo": "ngircd",
-            "stars": 586,
+            "stars": 587,
             "topics": [
               "bsd",
               "c",
@@ -734,6 +734,35 @@
               "ngircd",
               "server",
               "unix"
+            ]
+          },
+          "first_seen": "2026-08-28T13:03:31.399Z"
+        },
+        {
+          "node_type": "item",
+          "title": "UnrealIRCd",
+          "description": "Modular, advanced IRCd serving thousands of networks since 1999. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official UnrealIRCd repository. Downloads are available from our site",
+            "homepage": "https://www.unrealircd.org",
+            "id": 22337925,
+            "language": "C",
+            "license": "GPL-2.0",
+            "last_commit": "2026-11-18T08:36:30Z",
+            "open_issues": 5,
+            "owner": "unrealircd",
+            "repo": "unrealircd",
+            "stars": 532,
+            "topics": [
+              "c",
+              "irc",
+              "irc-server",
+              "ircd",
+              "ircv3",
+              "sasl",
+              "unrealircd"
             ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
@@ -756,35 +785,6 @@
             "repo": "ircd.js",
             "stars": 531,
             "topics": []
-          },
-          "first_seen": "2026-08-28T13:03:31.399Z"
-        },
-        {
-          "node_type": "item",
-          "title": "UnrealIRCd",
-          "description": "Modular, advanced IRCd serving thousands of networks since 1999. (source)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Official UnrealIRCd repository. Downloads are available from our site",
-            "homepage": "https://www.unrealircd.org",
-            "id": 22337925,
-            "language": "C",
-            "license": "GPL-2.0",
-            "last_commit": "2026-11-15T13:35:24Z",
-            "open_issues": 5,
-            "owner": "unrealircd",
-            "repo": "unrealircd",
-            "stars": 531,
-            "topics": [
-              "c",
-              "irc",
-              "irc-server",
-              "ircd",
-              "ircv3",
-              "sasl",
-              "unrealircd"
-            ]
           },
           "first_seen": "2026-08-28T13:03:31.399Z"
         },
@@ -859,7 +859,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-11-10T20:07:19Z",
-            "open_issues": 155,
+            "open_issues": 156,
             "owner": "atheme",
             "repo": "atheme",
             "stars": 430,
@@ -887,10 +887,10 @@
             "language": "C++",
             "license": null,
             "last_commit": "2026-11-15T13:48:01Z",
-            "open_issues": 50,
+            "open_issues": 52,
             "owner": "anope",
             "repo": "anope",
-            "stars": 370,
+            "stars": 371,
             "topics": [
               "anope",
               "irc",
@@ -921,7 +921,7 @@
             "open_issues": 65,
             "owner": "wabarc",
             "repo": "wayback",
-            "stars": 2255,
+            "stars": 2256,
             "topics": [
               "archive",
               "har",
@@ -1022,7 +1022,7 @@
             "open_issues": 244,
             "owner": "eggheads",
             "repo": "eggdrop",
-            "stars": 590,
+            "stars": 591,
             "topics": [
               "bot",
               "c",
@@ -1089,8 +1089,8 @@
             "id": 216284647,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-17T06:36:58Z",
-            "open_issues": 24,
+            "last_commit": "2026-11-18T03:13:42Z",
+            "open_issues": 29,
             "owner": "TotallyNotRobots",
             "repo": "CloudBot",
             "stars": 183,
@@ -1581,10 +1581,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2024-12-12T00:20:34Z",
-                "open_issues": 338,
+                "open_issues": 341,
                 "owner": "42wim",
                 "repo": "matterbridge",
-                "stars": 7620,
+                "stars": 7621,
                 "topics": [
                   "bridge",
                   "counter-strike",
@@ -1713,8 +1713,8 @@
                 "id": 45397023,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-17T08:39:41Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-17T22:05:18Z",
+                "open_issues": 4,
                 "owner": "42wim",
                 "repo": "matterircd",
                 "stars": 309,
@@ -2132,7 +2132,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T09:25:45.795Z",
+    "last_updated": "2026-11-18T08:44:12.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome IRC resources.",
